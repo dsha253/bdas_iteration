@@ -1,0 +1,1273 @@
+﻿ID,State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+1,Andhra Pradesh,ANANTAPUR,1997,Kharif,Cotton(lint),7300,9400
+2,Andhra Pradesh,ANANTAPUR,1998,Kharif,Cotton(lint),14000,12900
+3,Andhra Pradesh,ANANTAPUR,1999,Kharif,Cotton(lint),9453,10510
+4,Andhra Pradesh,ANANTAPUR,2000,Kharif,Cotton(lint),12025,16128
+5,Andhra Pradesh,ANANTAPUR,2001,Kharif,Cotton(lint),8552,9055
+6,Andhra Pradesh,ANANTAPUR,2002,Kharif,Cotton(lint),7638,7144
+7,Andhra Pradesh,ANANTAPUR,2003,Kharif,Cotton(lint),4212,4262
+8,Andhra Pradesh,ANANTAPUR,2004,Kharif,Cotton(lint),8933,7041
+9,Andhra Pradesh,ANANTAPUR,2005,Kharif,Cotton(lint),3295,3450
+10,Andhra Pradesh,ANANTAPUR,2006,Kharif,Cotton(lint),1506,1940
+11,Andhra Pradesh,ANANTAPUR,2007,Kharif,Cotton(lint),3000,2000
+12,Andhra Pradesh,ANANTAPUR,2008,Kharif,Cotton(lint),1611,1241
+13,Andhra Pradesh,ANANTAPUR,2009,Kharif,Cotton(lint),2063,1226
+14,Andhra Pradesh,ANANTAPUR,2010,Kharif,Cotton(lint),4338,2977
+15,Andhra Pradesh,ANANTAPUR,2011,Kharif,Cotton(lint),19299,12069
+16,Andhra Pradesh,ANANTAPUR,2012,Kharif,Cotton(lint),27566,35511
+17,Andhra Pradesh,ANANTAPUR,2012,Rabi,Cotton(lint),77,99
+18,Andhra Pradesh,ANANTAPUR,2013,Kharif,Cotton(lint),37661,77316
+19,Andhra Pradesh,ANANTAPUR,2013,Rabi,Cotton(lint),62,127
+20,Andhra Pradesh,ANANTAPUR,2014,Kharif,Cotton(lint),73734,103779
+21,Andhra Pradesh,ANANTAPUR,2014,Rabi,Cotton(lint),884,1244
+22,Andhra Pradesh,CHITTOOR,1999,Kharif,Cotton(lint),2,2
+23,Andhra Pradesh,CHITTOOR,2000,Kharif,Cotton(lint),19,25
+24,Andhra Pradesh,CHITTOOR,2001,Kharif,Cotton(lint),2,2
+25,Andhra Pradesh,CHITTOOR,2005,Kharif,Cotton(lint),4,4
+26,Andhra Pradesh,CHITTOOR,2008,Kharif,Cotton(lint),24,37
+27,Andhra Pradesh,CHITTOOR,2009,Kharif,Cotton(lint),66,94
+28,Andhra Pradesh,CHITTOOR,2010,Kharif,Cotton(lint),235,98
+29,Andhra Pradesh,CHITTOOR,2011,Kharif,Cotton(lint),400,65
+30,Andhra Pradesh,CHITTOOR,2012,Kharif,Cotton(lint),317,405
+31,Andhra Pradesh,CHITTOOR,2012,Rabi,Cotton(lint),226,288
+32,Andhra Pradesh,CHITTOOR,2013,Kharif,Cotton(lint),157,391
+33,Andhra Pradesh,CHITTOOR,2013,Rabi,Cotton(lint),194,483
+34,Andhra Pradesh,CHITTOOR,2014,Kharif,Cotton(lint),308,723
+35,Andhra Pradesh,CHITTOOR,2014,Rabi,Cotton(lint),545,1278
+36,Andhra Pradesh,EAST GODAVARI,1997,Kharif,Cotton(lint),9800,23400
+37,Andhra Pradesh,EAST GODAVARI,1998,Kharif,Cotton(lint),7900,6300
+38,Andhra Pradesh,EAST GODAVARI,1999,Kharif,Cotton(lint),4410,7289
+39,Andhra Pradesh,EAST GODAVARI,2000,Kharif,Cotton(lint),5580,10536
+40,Andhra Pradesh,EAST GODAVARI,2001,Kharif,Cotton(lint),6289,16425
+41,Andhra Pradesh,EAST GODAVARI,2002,Kharif,Cotton(lint),4555,8092
+42,Andhra Pradesh,EAST GODAVARI,2003,Kharif,Cotton(lint),8969,26696
+43,Andhra Pradesh,EAST GODAVARI,2004,Kharif,Cotton(lint),16022,45616
+44,Andhra Pradesh,EAST GODAVARI,2005,Kharif,Cotton(lint),13939,10167
+45,Andhra Pradesh,EAST GODAVARI,2006,Kharif,Cotton(lint),9034,19397
+46,Andhra Pradesh,EAST GODAVARI,2007,Kharif,Cotton(lint),8000,18000
+47,Andhra Pradesh,EAST GODAVARI,2008,Kharif,Cotton(lint),7432,14165
+48,Andhra Pradesh,EAST GODAVARI,2009,Kharif,Cotton(lint),6845,19649
+49,Andhra Pradesh,EAST GODAVARI,2010,Kharif,Cotton(lint),12112,21517
+50,Andhra Pradesh,EAST GODAVARI,2011,Kharif,Cotton(lint),13150,19880
+51,Andhra Pradesh,EAST GODAVARI,2012,Kharif,Cotton(lint),16845,32501
+52,Andhra Pradesh,EAST GODAVARI,2013,Kharif,Cotton(lint),21781,24728
+53,Andhra Pradesh,EAST GODAVARI,2014,Kharif,Cotton(lint),22433,47597
+54,Andhra Pradesh,GUNTUR,1997,Kharif,Cotton(lint),162300,432500
+55,Andhra Pradesh,GUNTUR,1998,Kharif,Cotton(lint),193600,120700
+56,Andhra Pradesh,GUNTUR,1999,Kharif,Cotton(lint),139425,252605
+57,Andhra Pradesh,GUNTUR,2000,Kharif,Cotton(lint),125251,252712
+58,Andhra Pradesh,GUNTUR,2001,Kharif,Cotton(lint),126285,378112
+59,Andhra Pradesh,GUNTUR,2002,Kharif,Cotton(lint),98628,186813
+60,Andhra Pradesh,GUNTUR,2003,Kharif,Cotton(lint),138925,485420
+61,Andhra Pradesh,GUNTUR,2004,Kharif,Cotton(lint),177868,593242
+62,Andhra Pradesh,GUNTUR,2005,Kharif,Cotton(lint),152978,462533
+63,Andhra Pradesh,GUNTUR,2006,Kharif,Cotton(lint),132550,468603
+64,Andhra Pradesh,GUNTUR,2007,Kharif,Cotton(lint),150000,689000
+65,Andhra Pradesh,GUNTUR,2008,Kharif,Cotton(lint),166289,643636
+66,Andhra Pradesh,GUNTUR,2009,Kharif,Cotton(lint),151490,524868
+67,Andhra Pradesh,GUNTUR,2010,Kharif,Cotton(lint),170158,402203
+68,Andhra Pradesh,GUNTUR,2011,Kharif,Cotton(lint),162714,346485
+69,Andhra Pradesh,GUNTUR,2012,Kharif,Cotton(lint),187397,708802
+70,Andhra Pradesh,GUNTUR,2013,Kharif,Cotton(lint),193207,752371
+71,Andhra Pradesh,GUNTUR,2014,Kharif,Cotton(lint),206374,1075856
+72,Andhra Pradesh,GUNTUR,2014,Rabi,Cotton(lint),22,115
+73,Andhra Pradesh,KADAPA,1997,Kharif,Cotton(lint),13400,17400
+74,Andhra Pradesh,KADAPA,1998,Kharif,Cotton(lint),24800,22900
+75,Andhra Pradesh,KADAPA,1999,Kharif,Cotton(lint),25038,27836
+76,Andhra Pradesh,KADAPA,2000,Kharif,Cotton(lint),30687,41157
+77,Andhra Pradesh,KADAPA,2001,Kharif,Cotton(lint),21579,23356
+78,Andhra Pradesh,KADAPA,2002,Kharif,Cotton(lint),11500,12921
+79,Andhra Pradesh,KADAPA,2003,Kharif,Cotton(lint),15784,12999
+80,Andhra Pradesh,KADAPA,2004,Kharif,Cotton(lint),27717,15815
+81,Andhra Pradesh,KADAPA,2005,Kharif,Cotton(lint),14578,11834
+82,Andhra Pradesh,KADAPA,2006,Kharif,Cotton(lint),7940,5651
+83,Andhra Pradesh,KADAPA,2007,Kharif,Cotton(lint),9000,14000
+84,Andhra Pradesh,KADAPA,2008,Kharif,Cotton(lint),11467,11669
+85,Andhra Pradesh,KADAPA,2009,Kharif,Cotton(lint),12614,17882
+86,Andhra Pradesh,KADAPA,2010,Kharif,Cotton(lint),17011,40822
+87,Andhra Pradesh,KADAPA,2011,Kharif,Cotton(lint),30845,48314
+88,Andhra Pradesh,KADAPA,2012,Kharif,Cotton(lint),28546,58771
+89,Andhra Pradesh,KADAPA,2012,Rabi,Cotton(lint),330,679
+90,Andhra Pradesh,KADAPA,2013,Kharif,Cotton(lint),34119,50175
+91,Andhra Pradesh,KADAPA,2013,Rabi,Cotton(lint),1803,2651
+92,Andhra Pradesh,KADAPA,2014,Kharif,Cotton(lint),34346,57550
+93,Andhra Pradesh,KADAPA,2014,Rabi,Cotton(lint),1246,2088
+94,Andhra Pradesh,KRISHNA,1997,Kharif,Cotton(lint),26400,63300
+95,Andhra Pradesh,KRISHNA,1998,Kharif,Cotton(lint),41300,32500
+96,Andhra Pradesh,KRISHNA,1999,Kharif,Cotton(lint),31696,52392
+97,Andhra Pradesh,KRISHNA,2000,Kharif,Cotton(lint),29437,64069
+98,Andhra Pradesh,KRISHNA,2001,Kharif,Cotton(lint),35374,77615
+99,Andhra Pradesh,KRISHNA,2002,Kharif,Cotton(lint),31367,57937
+100,Andhra Pradesh,KRISHNA,2003,Kharif,Cotton(lint),35436,104849
+101,Andhra Pradesh,KRISHNA,2004,Kharif,Cotton(lint),47915,137544
+102,Andhra Pradesh,KRISHNA,2005,Kharif,Cotton(lint),45825,88415
+103,Andhra Pradesh,KRISHNA,2006,Kharif,Cotton(lint),31586,85282
+104,Andhra Pradesh,KRISHNA,2007,Kharif,Cotton(lint),35000,115000
+105,Andhra Pradesh,KRISHNA,2008,Kharif,Cotton(lint),36669,131459
+106,Andhra Pradesh,KRISHNA,2009,Kharif,Cotton(lint),46902,140706
+107,Andhra Pradesh,KRISHNA,2010,Kharif,Cotton(lint),51963,117681
+108,Andhra Pradesh,KRISHNA,2011,Kharif,Cotton(lint),59845,122506
+109,Andhra Pradesh,KRISHNA,2012,Kharif,Cotton(lint),64514,208722
+110,Andhra Pradesh,KRISHNA,2013,Kharif,Cotton(lint),59304,224658
+111,Andhra Pradesh,KRISHNA,2014,Kharif,Cotton(lint),55571,261650
+112,Andhra Pradesh,KURNOOL,1997,Kharif,Cotton(lint),90400,116900
+113,Andhra Pradesh,KURNOOL,1998,Kharif,Cotton(lint),153700,142000
+114,Andhra Pradesh,KURNOOL,1999,Kharif,Cotton(lint),106402,118294
+115,Andhra Pradesh,KURNOOL,2000,Kharif,Cotton(lint),118754,159270
+116,Andhra Pradesh,KURNOOL,2001,Kharif,Cotton(lint),82631,87006
+117,Andhra Pradesh,KURNOOL,2002,Kharif,Cotton(lint),55276,49748
+118,Andhra Pradesh,KURNOOL,2003,Kharif,Cotton(lint),39274,42739
+119,Andhra Pradesh,KURNOOL,2004,Kharif,Cotton(lint),74578,64488
+120,Andhra Pradesh,KURNOOL,2005,Kharif,Cotton(lint),24333,22615
+121,Andhra Pradesh,KURNOOL,2006,Kharif,Cotton(lint),17223,22896
+122,Andhra Pradesh,KURNOOL,2007,Kharif,Cotton(lint),29000,48000
+123,Andhra Pradesh,KURNOOL,2008,Kharif,Cotton(lint),23397,42803
+124,Andhra Pradesh,KURNOOL,2009,Kharif,Cotton(lint),36070,52620
+125,Andhra Pradesh,KURNOOL,2010,Kharif,Cotton(lint),54003,111375
+126,Andhra Pradesh,KURNOOL,2011,Kharif,Cotton(lint),97242,122387
+127,Andhra Pradesh,KURNOOL,2012,Kharif,Cotton(lint),154899,175856
+128,Andhra Pradesh,KURNOOL,2012,Rabi,Cotton(lint),95,108
+129,Andhra Pradesh,KURNOOL,2013,Kharif,Cotton(lint),203835,679850
+130,Andhra Pradesh,KURNOOL,2013,Rabi,Cotton(lint),179,597
+131,Andhra Pradesh,KURNOOL,2014,Kharif,Cotton(lint),306058,809620
+132,Andhra Pradesh,KURNOOL,2014,Rabi,Cotton(lint),2,6
+133,Andhra Pradesh,PRAKASAM,1997,Kharif,Cotton(lint),39900,47500
+134,Andhra Pradesh,PRAKASAM,1998,Kharif,Cotton(lint),62800,82400
+135,Andhra Pradesh,PRAKASAM,1999,Kharif,Cotton(lint),41514,45665
+136,Andhra Pradesh,PRAKASAM,2000,Kharif,Cotton(lint),47128,61544
+137,Andhra Pradesh,PRAKASAM,2001,Kharif,Cotton(lint),37624,62633
+138,Andhra Pradesh,PRAKASAM,2002,Kharif,Cotton(lint),24364,28377
+139,Andhra Pradesh,PRAKASAM,2003,Kharif,Cotton(lint),35815,60675
+140,Andhra Pradesh,PRAKASAM,2004,Kharif,Cotton(lint),42618,57660
+141,Andhra Pradesh,PRAKASAM,2005,Kharif,Cotton(lint),20988,32717
+142,Andhra Pradesh,PRAKASAM,2006,Kharif,Cotton(lint),20156,40786
+143,Andhra Pradesh,PRAKASAM,2007,Kharif,Cotton(lint),24000,71000
+144,Andhra Pradesh,PRAKASAM,2008,Kharif,Cotton(lint),40781,131459
+145,Andhra Pradesh,PRAKASAM,2009,Kharif,Cotton(lint),32960,93645
+146,Andhra Pradesh,PRAKASAM,2010,Kharif,Cotton(lint),51421,115063
+147,Andhra Pradesh,PRAKASAM,2011,Kharif,Cotton(lint),57941,140142
+148,Andhra Pradesh,PRAKASAM,2012,Kharif,Cotton(lint),63206,195939
+149,Andhra Pradesh,PRAKASAM,2012,Rabi,Cotton(lint),3838,11898
+150,Andhra Pradesh,PRAKASAM,2013,Kharif,Cotton(lint),82988,276301
+151,Andhra Pradesh,PRAKASAM,2013,Rabi,Cotton(lint),1352,4501
+152,Andhra Pradesh,PRAKASAM,2014,Kharif,Cotton(lint),71520,252407
+153,Andhra Pradesh,PRAKASAM,2014,Rabi,Cotton(lint),651,2298
+154,Andhra Pradesh,SPSR NELLORE,1997,Kharif,Cotton(lint),8700,20900
+155,Andhra Pradesh,SPSR NELLORE,1998,Kharif,Cotton(lint),7100,5600
+156,Andhra Pradesh,SPSR NELLORE,1999,Kharif,Cotton(lint),4636,7663
+157,Andhra Pradesh,SPSR NELLORE,2000,Kharif,Cotton(lint),7628,14403
+158,Andhra Pradesh,SPSR NELLORE,2001,Kharif,Cotton(lint),6553,17115
+159,Andhra Pradesh,SPSR NELLORE,2002,Kharif,Cotton(lint),5798,10300
+160,Andhra Pradesh,SPSR NELLORE,2003,Kharif,Cotton(lint),9993,29744
+161,Andhra Pradesh,SPSR NELLORE,2004,Kharif,Cotton(lint),6399,18218
+162,Andhra Pradesh,SPSR NELLORE,2005,Kharif,Cotton(lint),4428,10731
+163,Andhra Pradesh,SPSR NELLORE,2006,Kharif,Cotton(lint),3760,11568
+164,Andhra Pradesh,SPSR NELLORE,2007,Kharif,Cotton(lint),5000,20000
+165,Andhra Pradesh,SPSR NELLORE,2008,Kharif,Cotton(lint),6879,24724
+166,Andhra Pradesh,SPSR NELLORE,2009,Kharif,Cotton(lint),4567,14668
+167,Andhra Pradesh,SPSR NELLORE,2010,Kharif,Cotton(lint),8255,14718
+168,Andhra Pradesh,SPSR NELLORE,2011,Kharif,Cotton(lint),16925,34716
+169,Andhra Pradesh,SPSR NELLORE,2012,Kharif,Cotton(lint),4753,12414
+170,Andhra Pradesh,SPSR NELLORE,2012,Rabi,Cotton(lint),2442,6378
+171,Andhra Pradesh,SPSR NELLORE,2013,Kharif,Cotton(lint),5220,13081
+172,Andhra Pradesh,SPSR NELLORE,2013,Rabi,Cotton(lint),1565,3922
+173,Andhra Pradesh,SPSR NELLORE,2014,Kharif,Cotton(lint),6615,20463
+174,Andhra Pradesh,SPSR NELLORE,2014,Rabi,Cotton(lint),2872,8885
+175,Andhra Pradesh,SRIKAKULAM,1997,Kharif,Cotton(lint),800,1900
+176,Andhra Pradesh,SRIKAKULAM,1998,Kharif,Cotton(lint),2000,1600
+177,Andhra Pradesh,SRIKAKULAM,1999,Kharif,Cotton(lint),1700,2810
+178,Andhra Pradesh,SRIKAKULAM,2000,Kharif,Cotton(lint),1836,3467
+179,Andhra Pradesh,SRIKAKULAM,2001,Kharif,Cotton(lint),1724,4503
+180,Andhra Pradesh,SRIKAKULAM,2002,Kharif,Cotton(lint),1522,2704
+181,Andhra Pradesh,SRIKAKULAM,2003,Kharif,Cotton(lint),1711,5093
+182,Andhra Pradesh,SRIKAKULAM,2004,Kharif,Cotton(lint),2525,7189
+183,Andhra Pradesh,SRIKAKULAM,2005,Kharif,Cotton(lint),2666,6461
+184,Andhra Pradesh,SRIKAKULAM,2006,Kharif,Cotton(lint),1761,5418
+185,Andhra Pradesh,SRIKAKULAM,2007,Kharif,Cotton(lint),2000,7000
+186,Andhra Pradesh,SRIKAKULAM,2008,Kharif,Cotton(lint),1802,6477
+187,Andhra Pradesh,SRIKAKULAM,2009,Kharif,Cotton(lint),1248,4008
+188,Andhra Pradesh,SRIKAKULAM,2010,Kharif,Cotton(lint),2968,6739
+189,Andhra Pradesh,SRIKAKULAM,2011,Kharif,Cotton(lint),5567,11953
+190,Andhra Pradesh,SRIKAKULAM,2012,Kharif,Cotton(lint),9952,33661
+191,Andhra Pradesh,SRIKAKULAM,2013,Kharif,Cotton(lint),9846,28843
+192,Andhra Pradesh,SRIKAKULAM,2014,Kharif,Cotton(lint),9563,42122
+193,Andhra Pradesh,VISAKHAPATANAM,1997,Kharif,Cotton(lint),1500,3500
+194,Andhra Pradesh,VISAKHAPATANAM,1998,Kharif,Cotton(lint),1300,1100
+195,Andhra Pradesh,VISAKHAPATANAM,1999,Kharif,Cotton(lint),1197,1979
+196,Andhra Pradesh,VISAKHAPATANAM,2000,Kharif,Cotton(lint),1119,2113
+197,Andhra Pradesh,VISAKHAPATANAM,2001,Kharif,Cotton(lint),1021,2667
+198,Andhra Pradesh,VISAKHAPATANAM,2002,Kharif,Cotton(lint),859,1526
+199,Andhra Pradesh,VISAKHAPATANAM,2003,Kharif,Cotton(lint),1359,4045
+200,Andhra Pradesh,VISAKHAPATANAM,2004,Kharif,Cotton(lint),3020,8598
+201,Andhra Pradesh,VISAKHAPATANAM,2005,Kharif,Cotton(lint),1834,4445
+202,Andhra Pradesh,VISAKHAPATANAM,2006,Kharif,Cotton(lint),847,2606
+203,Andhra Pradesh,VISAKHAPATANAM,2008,Kharif,Cotton(lint),204,733
+204,Andhra Pradesh,VISAKHAPATANAM,2009,Kharif,Cotton(lint),697,2239
+205,Andhra Pradesh,VISAKHAPATANAM,2010,Kharif,Cotton(lint),1105,2509
+206,Andhra Pradesh,VISAKHAPATANAM,2011,Kharif,Cotton(lint),1390,2984
+207,Andhra Pradesh,VISAKHAPATANAM,2012,Kharif,Cotton(lint),3013,10191
+208,Andhra Pradesh,VISAKHAPATANAM,2013,Kharif,Cotton(lint),2798,8196
+209,Andhra Pradesh,VISAKHAPATANAM,2014,Kharif,Cotton(lint),2840,12510
+210,Andhra Pradesh,VIZIANAGARAM,1997,Kharif,Cotton(lint),4200,10100
+211,Andhra Pradesh,VIZIANAGARAM,1998,Kharif,Cotton(lint),13200,10400
+212,Andhra Pradesh,VIZIANAGARAM,1999,Kharif,Cotton(lint),10494,17346
+213,Andhra Pradesh,VIZIANAGARAM,2000,Kharif,Cotton(lint),9874,18644
+214,Andhra Pradesh,VIZIANAGARAM,2001,Kharif,Cotton(lint),15639,40845
+215,Andhra Pradesh,VIZIANAGARAM,2002,Kharif,Cotton(lint),12397,22023
+216,Andhra Pradesh,VIZIANAGARAM,2003,Kharif,Cotton(lint),19471,26801
+217,Andhra Pradesh,VIZIANAGARAM,2004,Kharif,Cotton(lint),22974,38650
+218,Andhra Pradesh,VIZIANAGARAM,2005,Kharif,Cotton(lint),17734,13874
+219,Andhra Pradesh,VIZIANAGARAM,2006,Kharif,Cotton(lint),11062,11452
+220,Andhra Pradesh,VIZIANAGARAM,2007,Kharif,Cotton(lint),7000,7000
+221,Andhra Pradesh,VIZIANAGARAM,2008,Kharif,Cotton(lint),6798,6358
+222,Andhra Pradesh,VIZIANAGARAM,2009,Kharif,Cotton(lint),8808,15129
+223,Andhra Pradesh,VIZIANAGARAM,2010,Kharif,Cotton(lint),11463,10721
+224,Andhra Pradesh,VIZIANAGARAM,2011,Kharif,Cotton(lint),11728,15798
+225,Andhra Pradesh,VIZIANAGARAM,2012,Kharif,Cotton(lint),14658,29316
+226,Andhra Pradesh,VIZIANAGARAM,2013,Kharif,Cotton(lint),15303,26735
+227,Andhra Pradesh,VIZIANAGARAM,2014,Kharif,Cotton(lint),15698,37286
+228,Andhra Pradesh,WEST GODAVARI,1997,Kharif,Cotton(lint),3400,8200
+229,Andhra Pradesh,WEST GODAVARI,1998,Kharif,Cotton(lint),3100,2400
+230,Andhra Pradesh,WEST GODAVARI,1999,Kharif,Cotton(lint),1546,2555
+231,Andhra Pradesh,WEST GODAVARI,2000,Kharif,Cotton(lint),2028,3829
+232,Andhra Pradesh,WEST GODAVARI,2001,Kharif,Cotton(lint),3269,8538
+233,Andhra Pradesh,WEST GODAVARI,2002,Kharif,Cotton(lint),940,1670
+234,Andhra Pradesh,WEST GODAVARI,2003,Kharif,Cotton(lint),3759,11189
+235,Andhra Pradesh,WEST GODAVARI,2004,Kharif,Cotton(lint),8729,24852
+236,Andhra Pradesh,WEST GODAVARI,2005,Kharif,Cotton(lint),11196,27134
+237,Andhra Pradesh,WEST GODAVARI,2006,Kharif,Cotton(lint),4370,13444
+238,Andhra Pradesh,WEST GODAVARI,2007,Kharif,Cotton(lint),5000,18000
+239,Andhra Pradesh,WEST GODAVARI,2008,Kharif,Cotton(lint),3512,12623
+240,Andhra Pradesh,WEST GODAVARI,2009,Kharif,Cotton(lint),2522,8100
+241,Andhra Pradesh,WEST GODAVARI,2010,Kharif,Cotton(lint),3956,8982
+242,Andhra Pradesh,WEST GODAVARI,2011,Kharif,Cotton(lint),5131,11017
+243,Andhra Pradesh,WEST GODAVARI,2012,Kharif,Cotton(lint),6425,21732
+244,Andhra Pradesh,WEST GODAVARI,2013,Kharif,Cotton(lint),5240,13038
+245,Andhra Pradesh,WEST GODAVARI,2014,Kharif,Cotton(lint),9795,13807
+246,Karnataka,BAGALKOT,1998,Kharif,Cotton(lint),15225,22129
+247,Karnataka,BAGALKOT,1999,Kharif,Cotton(lint),11979,18434
+248,Karnataka,BAGALKOT,2000,Kharif,Cotton(lint),15767,23002
+249,Karnataka,BAGALKOT,2001,Kharif,Cotton(lint),14104,22539
+250,Karnataka,BAGALKOT,2002,Kharif,Cotton(lint),3511,5149
+251,Karnataka,BAGALKOT,2003,Kharif,Cotton(lint),3226,6374
+252,Karnataka,BAGALKOT,2004,Kharif,Cotton(lint),7315,12172
+253,Karnataka,BAGALKOT,2005,Whole Year,Cotton(lint),5632,9351
+254,Karnataka,BAGALKOT,2006,Whole Year,Cotton(lint),2974,4695
+255,Karnataka,BAGALKOT,2007,Whole Year,Cotton(lint),2660,3791
+256,Karnataka,BAGALKOT,2008,Whole Year,Cotton(lint),2466,5901
+257,Karnataka,BAGALKOT,2009,Whole Year,Cotton(lint),2824,4402
+258,Karnataka,BAGALKOT,2010,Kharif,Cotton(lint),1034,2338
+259,Karnataka,BAGALKOT,2010,Rabi,Cotton(lint),1357,1938
+260,Karnataka,BAGALKOT,2011,Kharif,Cotton(lint),1007,2450
+261,Karnataka,BAGALKOT,2011,Rabi,Cotton(lint),874,928
+262,Karnataka,BAGALKOT,2012,Kharif,Cotton(lint),477,909
+263,Karnataka,BAGALKOT,2012,Rabi,Cotton(lint),328,409
+264,Karnataka,BAGALKOT,2013,Kharif,Cotton(lint),606,1795
+265,Karnataka,BAGALKOT,2013,Rabi,Cotton(lint),354,653
+266,Karnataka,BAGALKOT,2014,Kharif,Cotton(lint),3299,8996
+267,Karnataka,BAGALKOT,2014,Rabi,Cotton(lint),210,334
+268,Karnataka,BAGALKOT,2014,Summer,Cotton(lint),350,663
+269,Karnataka,BANGALORE RURAL,2013,Kharif,Cotton(lint),2,6
+270,Karnataka,BELGAUM,1998,Kharif,Cotton(lint),65829,98969
+271,Karnataka,BELGAUM,1999,Kharif,Cotton(lint),49070,86693
+272,Karnataka,BELGAUM,2000,Kharif,Cotton(lint),49186,94627
+273,Karnataka,BELGAUM,2001,Kharif,Cotton(lint),40767,50651
+274,Karnataka,BELGAUM,2002,Kharif,Cotton(lint),29028,31313
+275,Karnataka,BELGAUM,2003,Kharif,Cotton(lint),18749,13700
+276,Karnataka,BELGAUM,2004,Kharif,Cotton(lint),37659,62440
+277,Karnataka,BELGAUM,2005,Whole Year,Cotton(lint),28359,41840
+278,Karnataka,BELGAUM,2006,Whole Year,Cotton(lint),28247,50807
+279,Karnataka,BELGAUM,2007,Whole Year,Cotton(lint),21050,51444
+280,Karnataka,BELGAUM,2008,Whole Year,Cotton(lint),20041,38609
+281,Karnataka,BELGAUM,2009,Whole Year,Cotton(lint),30046,63454
+282,Karnataka,BELGAUM,2010,Kharif,Cotton(lint),37660,83178
+283,Karnataka,BELGAUM,2010,Rabi,Cotton(lint),671,1277
+284,Karnataka,BELGAUM,2011,Kharif,Cotton(lint),37618,84884
+285,Karnataka,BELGAUM,2011,Rabi,Cotton(lint),394,744
+286,Karnataka,BELGAUM,2012,Kharif,Cotton(lint),22513,41389
+287,Karnataka,BELGAUM,2012,Summer,Cotton(lint),162,449
+288,Karnataka,BELGAUM,2013,Kharif,Cotton(lint),29844,83384
+289,Karnataka,BELGAUM,2013,Rabi,Cotton(lint),1256,2316
+290,Karnataka,BELGAUM,2013,Summer,Cotton(lint),265,955
+291,Karnataka,BELGAUM,2014,Kharif,Cotton(lint),39811,108785
+292,Karnataka,BELGAUM,2014,Rabi,Cotton(lint),470,749
+293,Karnataka,BELGAUM,2014,Summer,Cotton(lint),29,55
+294,Karnataka,BELLARY,1998,Kharif,Cotton(lint),66412,85696
+295,Karnataka,BELLARY,1999,Kharif,Cotton(lint),55563,55883
+296,Karnataka,BELLARY,2000,Kharif,Cotton(lint),52037,68670
+297,Karnataka,BELLARY,2001,Kharif,Cotton(lint),51505,69414
+298,Karnataka,BELLARY,2002,Kharif,Cotton(lint),35188,38941
+299,Karnataka,BELLARY,2003,Kharif,Cotton(lint),26088,21825
+300,Karnataka,BELLARY,2004,Kharif,Cotton(lint),42373,48777
+301,Karnataka,BELLARY,2005,Whole Year,Cotton(lint),26690,35262
+302,Karnataka,BELLARY,2006,Whole Year,Cotton(lint),19167,28963
+303,Karnataka,BELLARY,2007,Whole Year,Cotton(lint),26604,48546
+304,Karnataka,BELLARY,2008,Whole Year,Cotton(lint),19627,36344
+305,Karnataka,BELLARY,2009,Whole Year,Cotton(lint),25269,47008
+306,Karnataka,BELLARY,2010,Kharif,Cotton(lint),37118,100359
+307,Karnataka,BELLARY,2010,Rabi,Cotton(lint),7774,20933
+308,Karnataka,BELLARY,2011,Kharif,Cotton(lint),37717,80774
+309,Karnataka,BELLARY,2011,Rabi,Cotton(lint),4654,7285
+310,Karnataka,BELLARY,2012,Kharif,Cotton(lint),62710,171708
+311,Karnataka,BELLARY,2012,Rabi,Cotton(lint),1869,2026
+312,Karnataka,BELLARY,2012,Summer,Cotton(lint),922,2555
+313,Karnataka,BELLARY,2013,Kharif,Cotton(lint),72108,184949
+314,Karnataka,BELLARY,2013,Rabi,Cotton(lint),1096,2021
+315,Karnataka,BELLARY,2013,Summer,Cotton(lint),1095,3947
+316,Karnataka,BELLARY,2014,Kharif,Cotton(lint),78646,242150
+317,Karnataka,BELLARY,2014,Rabi,Cotton(lint),2687,4369
+318,Karnataka,BELLARY,2014,Summer,Cotton(lint),1010,1913
+319,Karnataka,BIDAR,1998,Kharif,Cotton(lint),3616,3439
+320,Karnataka,BIDAR,1999,Kharif,Cotton(lint),2817,3001
+321,Karnataka,BIDAR,2000,Kharif,Cotton(lint),1373,1994
+322,Karnataka,BIDAR,2001,Kharif,Cotton(lint),1843,1668
+323,Karnataka,BIDAR,2002,Kharif,Cotton(lint),1477,2410
+324,Karnataka,BIDAR,2003,Kharif,Cotton(lint),1321,1373
+325,Karnataka,BIDAR,2004,Kharif,Cotton(lint),1914,2194
+326,Karnataka,BIDAR,2005,Whole Year,Cotton(lint),1505,1279
+327,Karnataka,BIDAR,2006,Whole Year,Cotton(lint),1430,1151
+328,Karnataka,BIDAR,2007,Whole Year,Cotton(lint),1307,1066
+329,Karnataka,BIDAR,2008,Whole Year,Cotton(lint),1384,1270
+330,Karnataka,BIDAR,2009,Whole Year,Cotton(lint),1165,1115
+331,Karnataka,BIDAR,2010,Kharif,Cotton(lint),787,901
+332,Karnataka,BIDAR,2011,Kharif,Cotton(lint),632,1286
+333,Karnataka,BIDAR,2012,Kharif,Cotton(lint),549,1261
+334,Karnataka,BIDAR,2013,Kharif,Cotton(lint),319,945
+335,Karnataka,BIDAR,2014,Kharif,Cotton(lint),291,794
+336,Karnataka,BIJAPUR,1998,Kharif,Cotton(lint),8727,12667
+337,Karnataka,BIJAPUR,1999,Kharif,Cotton(lint),7198,12749
+338,Karnataka,BIJAPUR,2000,Kharif,Cotton(lint),14718,27539
+339,Karnataka,BIJAPUR,2001,Kharif,Cotton(lint),11094,14634
+340,Karnataka,BIJAPUR,2002,Kharif,Cotton(lint),2851,3673
+341,Karnataka,BIJAPUR,2003,Kharif,Cotton(lint),1226,1753
+342,Karnataka,BIJAPUR,2004,Kharif,Cotton(lint),3043,7663
+343,Karnataka,BIJAPUR,2005,Whole Year,Cotton(lint),1863,5568
+344,Karnataka,BIJAPUR,2006,Whole Year,Cotton(lint),1746,3317
+345,Karnataka,BIJAPUR,2007,Whole Year,Cotton(lint),4100,10326
+346,Karnataka,BIJAPUR,2008,Whole Year,Cotton(lint),5553,12932
+347,Karnataka,BIJAPUR,2009,Whole Year,Cotton(lint),3669,7636
+348,Karnataka,BIJAPUR,2010,Kharif,Cotton(lint),9599,26525
+349,Karnataka,BIJAPUR,2010,Rabi,Cotton(lint),925,1882
+350,Karnataka,BIJAPUR,2011,Kharif,Cotton(lint),11130,29346
+351,Karnataka,BIJAPUR,2011,Rabi,Cotton(lint),691,672
+352,Karnataka,BIJAPUR,2012,Kharif,Cotton(lint),11247,25893
+353,Karnataka,BIJAPUR,2012,Rabi,Cotton(lint),1492,1843
+354,Karnataka,BIJAPUR,2012,Summer,Cotton(lint),208,577
+355,Karnataka,BIJAPUR,2013,Kharif,Cotton(lint),9881,23301
+356,Karnataka,BIJAPUR,2013,Rabi,Cotton(lint),446,1201
+357,Karnataka,BIJAPUR,2013,Summer,Cotton(lint),92,332
+358,Karnataka,BIJAPUR,2014,Kharif,Cotton(lint),14303,32450
+359,Karnataka,BIJAPUR,2014,Rabi,Cotton(lint),224,357
+360,Karnataka,BIJAPUR,2014,Summer,Cotton(lint),37,70
+361,Karnataka,CHAMARAJANAGAR,1998,Kharif,Cotton(lint),12738,32303
+362,Karnataka,CHAMARAJANAGAR,1999,Kharif,Cotton(lint),12157,16746
+363,Karnataka,CHAMARAJANAGAR,2000,Kharif,Cotton(lint),9652,7944
+364,Karnataka,CHAMARAJANAGAR,2001,Kharif,Cotton(lint),10547,7085
+365,Karnataka,CHAMARAJANAGAR,2002,Kharif,Cotton(lint),5271,928
+366,Karnataka,CHAMARAJANAGAR,2003,Kharif,Cotton(lint),5420,1143
+367,Karnataka,CHAMARAJANAGAR,2004,Kharif,Cotton(lint),14169,3485
+368,Karnataka,CHAMARAJANAGAR,2005,Whole Year,Cotton(lint),6842,3169
+369,Karnataka,CHAMARAJANAGAR,2006,Whole Year,Cotton(lint),1511,731
+370,Karnataka,CHAMARAJANAGAR,2007,Whole Year,Cotton(lint),2248,1772
+371,Karnataka,CHAMARAJANAGAR,2008,Whole Year,Cotton(lint),443,423
+372,Karnataka,CHAMARAJANAGAR,2009,Whole Year,Cotton(lint),754,683
+373,Karnataka,CHAMARAJANAGAR,2010,Kharif,Cotton(lint),2593,2531
+374,Karnataka,CHAMARAJANAGAR,2010,Rabi,Cotton(lint),45,98
+375,Karnataka,CHAMARAJANAGAR,2011,Kharif,Cotton(lint),6522,10277
+376,Karnataka,CHAMARAJANAGAR,2011,Rabi,Cotton(lint),60,113
+377,Karnataka,CHAMARAJANAGAR,2012,Kharif,Cotton(lint),7319,6298
+378,Karnataka,CHAMARAJANAGAR,2012,Summer,Cotton(lint),55,152
+379,Karnataka,CHAMARAJANAGAR,2013,Kharif,Cotton(lint),10166,30108
+380,Karnataka,CHAMARAJANAGAR,2014,Kharif,Cotton(lint),15063,17592
+381,Karnataka,CHIKBALLAPUR,2010,Kharif,Cotton(lint),93,244
+382,Karnataka,CHIKBALLAPUR,2010,Rabi,Cotton(lint),134,291
+383,Karnataka,CHIKBALLAPUR,2011,Kharif,Cotton(lint),136,416
+384,Karnataka,CHIKBALLAPUR,2011,Rabi,Cotton(lint),60,113
+385,Karnataka,CHIKBALLAPUR,2012,Kharif,Cotton(lint),120,276
+386,Karnataka,CHIKBALLAPUR,2012,Summer,Cotton(lint),35,97
+387,Karnataka,CHIKBALLAPUR,2013,Kharif,Cotton(lint),160,474
+388,Karnataka,CHIKBALLAPUR,2014,Kharif,Cotton(lint),67,183
+389,Karnataka,CHIKMAGALUR,1998,Kharif,Cotton(lint),3270,4898
+390,Karnataka,CHIKMAGALUR,1999,Kharif,Cotton(lint),2108,2489
+391,Karnataka,CHIKMAGALUR,2000,Kharif,Cotton(lint),1969,2906
+392,Karnataka,CHIKMAGALUR,2001,Kharif,Cotton(lint),1537,1271
+393,Karnataka,CHIKMAGALUR,2002,Kharif,Cotton(lint),1711,1950
+394,Karnataka,CHIKMAGALUR,2003,Kharif,Cotton(lint),392,407
+395,Karnataka,CHIKMAGALUR,2004,Kharif,Cotton(lint),2037,2504
+396,Karnataka,CHIKMAGALUR,2005,Whole Year,Cotton(lint),2157,1796
+397,Karnataka,CHIKMAGALUR,2006,Whole Year,Cotton(lint),2023,2227
+398,Karnataka,CHIKMAGALUR,2007,Whole Year,Cotton(lint),1868,3372
+399,Karnataka,CHIKMAGALUR,2008,Whole Year,Cotton(lint),1202,1364
+400,Karnataka,CHIKMAGALUR,2009,Whole Year,Cotton(lint),1028,1425
+401,Karnataka,CHIKMAGALUR,2010,Kharif,Cotton(lint),877,2044
+402,Karnataka,CHIKMAGALUR,2011,Kharif,Cotton(lint),1026,1181
+403,Karnataka,CHIKMAGALUR,2012,Kharif,Cotton(lint),1159,952
+404,Karnataka,CHIKMAGALUR,2013,Kharif,Cotton(lint),1299,1386
+405,Karnataka,CHIKMAGALUR,2014,Kharif,Cotton(lint),1843,3018
+406,Karnataka,CHITRADURGA,1998,Kharif,Cotton(lint),26795,30271
+407,Karnataka,CHITRADURGA,1999,Kharif,Cotton(lint),13905,15166
+408,Karnataka,CHITRADURGA,2000,Kharif,Cotton(lint),16297,27965
+409,Karnataka,CHITRADURGA,2001,Kharif,Cotton(lint),17762,16460
+410,Karnataka,CHITRADURGA,2002,Kharif,Cotton(lint),7553,9979
+411,Karnataka,CHITRADURGA,2003,Kharif,Cotton(lint),4092,4300
+412,Karnataka,CHITRADURGA,2004,Kharif,Cotton(lint),15420,24022
+413,Karnataka,CHITRADURGA,2005,Whole Year,Cotton(lint),15383,26687
+414,Karnataka,CHITRADURGA,2006,Whole Year,Cotton(lint),8535,12117
+415,Karnataka,CHITRADURGA,2007,Whole Year,Cotton(lint),10648,24767
+416,Karnataka,CHITRADURGA,2008,Whole Year,Cotton(lint),4372,7054
+417,Karnataka,CHITRADURGA,2009,Whole Year,Cotton(lint),10513,14749
+418,Karnataka,CHITRADURGA,2010,Kharif,Cotton(lint),14514,32813
+419,Karnataka,CHITRADURGA,2010,Rabi,Cotton(lint),1600,2305
+420,Karnataka,CHITRADURGA,2011,Kharif,Cotton(lint),20190,37180
+421,Karnataka,CHITRADURGA,2011,Rabi,Cotton(lint),211,399
+422,Karnataka,CHITRADURGA,2012,Kharif,Cotton(lint),17637,25526
+423,Karnataka,CHITRADURGA,2012,Rabi,Cotton(lint),1785,2204
+424,Karnataka,CHITRADURGA,2013,Kharif,Cotton(lint),20250,34287
+425,Karnataka,CHITRADURGA,2013,Rabi,Cotton(lint),716,1320
+426,Karnataka,CHITRADURGA,2014,Kharif,Cotton(lint),28366,48504
+427,Karnataka,CHITRADURGA,2014,Rabi,Cotton(lint),91,141
+428,Karnataka,CHITRADURGA,2014,Summer,Cotton(lint),84,159
+429,Karnataka,DAKSHIN KANNAD,2012,Kharif,Cotton(lint),2,3
+430,Karnataka,DAVANGERE,1998,Kharif,Cotton(lint),26284,31242
+431,Karnataka,DAVANGERE,1999,Kharif,Cotton(lint),10250,11062
+432,Karnataka,DAVANGERE,2000,Kharif,Cotton(lint),6321,8061
+433,Karnataka,DAVANGERE,2001,Kharif,Cotton(lint),10159,9014
+434,Karnataka,DAVANGERE,2002,Kharif,Cotton(lint),4660,4327
+435,Karnataka,DAVANGERE,2003,Kharif,Cotton(lint),3590,2961
+436,Karnataka,DAVANGERE,2004,Kharif,Cotton(lint),6869,12610
+437,Karnataka,DAVANGERE,2005,Whole Year,Cotton(lint),6364,8361
+438,Karnataka,DAVANGERE,2006,Whole Year,Cotton(lint),4976,10089
+439,Karnataka,DAVANGERE,2007,Whole Year,Cotton(lint),6174,17914
+440,Karnataka,DAVANGERE,2008,Whole Year,Cotton(lint),8051,15797
+441,Karnataka,DAVANGERE,2009,Whole Year,Cotton(lint),16843,28211
+442,Karnataka,DAVANGERE,2010,Kharif,Cotton(lint),22871,50664
+443,Karnataka,DAVANGERE,2010,Rabi,Cotton(lint),1016,1759
+444,Karnataka,DAVANGERE,2011,Kharif,Cotton(lint),22930,58939
+445,Karnataka,DAVANGERE,2011,Rabi,Cotton(lint),427,794
+446,Karnataka,DAVANGERE,2012,Kharif,Cotton(lint),14903,26399
+447,Karnataka,DAVANGERE,2012,Rabi,Cotton(lint),174,215
+448,Karnataka,DAVANGERE,2012,Summer,Cotton(lint),356,987
+449,Karnataka,DAVANGERE,2013,Kharif,Cotton(lint),19895,25348
+450,Karnataka,DAVANGERE,2013,Rabi,Cotton(lint),131,242
+451,Karnataka,DAVANGERE,2013,Summer,Cotton(lint),552,1990
+452,Karnataka,DAVANGERE,2014,Kharif,Cotton(lint),20325,29075
+453,Karnataka,DAVANGERE,2014,Rabi,Cotton(lint),259,412
+454,Karnataka,DAVANGERE,2014,Summer,Cotton(lint),130,246
+455,Karnataka,DHARWAD,1998,Kharif,Cotton(lint),86875,160464
+456,Karnataka,DHARWAD,1999,Kharif,Cotton(lint),95340,67640
+457,Karnataka,DHARWAD,2000,Kharif,Cotton(lint),92898,118695
+458,Karnataka,DHARWAD,2001,Kharif,Cotton(lint),105429,49539
+459,Karnataka,DHARWAD,2002,Kharif,Cotton(lint),91357,39526
+460,Karnataka,DHARWAD,2003,Kharif,Cotton(lint),51899,30814
+461,Karnataka,DHARWAD,2004,Kharif,Cotton(lint),86481,70947
+462,Karnataka,DHARWAD,2005,Whole Year,Cotton(lint),76994,71552
+463,Karnataka,DHARWAD,2006,Whole Year,Cotton(lint),74021,85558
+464,Karnataka,DHARWAD,2007,Whole Year,Cotton(lint),72612,91219
+465,Karnataka,DHARWAD,2008,Whole Year,Cotton(lint),71221,118158
+466,Karnataka,DHARWAD,2009,Whole Year,Cotton(lint),83461,130437
+467,Karnataka,DHARWAD,2010,Kharif,Cotton(lint),44413,95992
+468,Karnataka,DHARWAD,2010,Rabi,Cotton(lint),43927,42621
+469,Karnataka,DHARWAD,2011,Kharif,Cotton(lint),48647,88766
+470,Karnataka,DHARWAD,2011,Rabi,Cotton(lint),20322,18078
+471,Karnataka,DHARWAD,2012,Kharif,Cotton(lint),24211,35040
+472,Karnataka,DHARWAD,2012,Rabi,Cotton(lint),16699,12131
+473,Karnataka,DHARWAD,2013,Kharif,Cotton(lint),60529,79824
+474,Karnataka,DHARWAD,2013,Rabi,Cotton(lint),29968,55262
+475,Karnataka,DHARWAD,2014,Kharif,Cotton(lint),80222,167657
+476,Karnataka,DHARWAD,2014,Rabi,Cotton(lint),16962,18388
+477,Karnataka,GADAG,1998,Kharif,Cotton(lint),62230,69246
+478,Karnataka,GADAG,1999,Kharif,Cotton(lint),57536,41642
+479,Karnataka,GADAG,2000,Kharif,Cotton(lint),67713,97437
+480,Karnataka,GADAG,2001,Kharif,Cotton(lint),77125,50442
+481,Karnataka,GADAG,2002,Kharif,Cotton(lint),45540,20497
+482,Karnataka,GADAG,2003,Kharif,Cotton(lint),37175,7485
+483,Karnataka,GADAG,2004,Kharif,Cotton(lint),59863,42548
+484,Karnataka,GADAG,2005,Whole Year,Cotton(lint),55846,44817
+485,Karnataka,GADAG,2006,Whole Year,Cotton(lint),37817,17854
+486,Karnataka,GADAG,2007,Whole Year,Cotton(lint),49518,76528
+487,Karnataka,GADAG,2008,Whole Year,Cotton(lint),41834,95198
+488,Karnataka,GADAG,2009,Whole Year,Cotton(lint),62015,82054
+489,Karnataka,GADAG,2010,Kharif,Cotton(lint),24843,57340
+490,Karnataka,GADAG,2010,Rabi,Cotton(lint),48527,54557
+491,Karnataka,GADAG,2011,Kharif,Cotton(lint),24721,43291
+492,Karnataka,GADAG,2011,Rabi,Cotton(lint),34985,16915
+493,Karnataka,GADAG,2012,Kharif,Cotton(lint),12863,20413
+494,Karnataka,GADAG,2012,Rabi,Cotton(lint),20231,37420
+495,Karnataka,GADAG,2013,Kharif,Cotton(lint),25670,100411
+496,Karnataka,GADAG,2013,Rabi,Cotton(lint),32535,59632
+497,Karnataka,GADAG,2014,Kharif,Cotton(lint),64795,198055
+498,Karnataka,GADAG,2014,Rabi,Cotton(lint),33366,65817
+499,Karnataka,GULBARGA,1998,Kharif,Cotton(lint),20113,38605
+500,Karnataka,GULBARGA,1999,Kharif,Cotton(lint),12085,18754
+501,Karnataka,GULBARGA,2000,Kharif,Cotton(lint),10595,28167
+502,Karnataka,GULBARGA,2001,Kharif,Cotton(lint),28394,53835
+503,Karnataka,GULBARGA,2002,Kharif,Cotton(lint),16443,43235
+504,Karnataka,GULBARGA,2003,Kharif,Cotton(lint),17295,48613
+505,Karnataka,GULBARGA,2004,Kharif,Cotton(lint),27881,73916
+506,Karnataka,GULBARGA,2005,Whole Year,Cotton(lint),28773,103776
+507,Karnataka,GULBARGA,2006,Whole Year,Cotton(lint),23582,85067
+508,Karnataka,GULBARGA,2007,Whole Year,Cotton(lint),26010,106214
+509,Karnataka,GULBARGA,2008,Whole Year,Cotton(lint),50976,185757
+510,Karnataka,GULBARGA,2009,Whole Year,Cotton(lint),23502,55471
+511,Karnataka,GULBARGA,2010,Kharif,Cotton(lint),13759,38254
+512,Karnataka,GULBARGA,2011,Kharif,Cotton(lint),26496,107190
+513,Karnataka,GULBARGA,2012,Kharif,Cotton(lint),39523,90771
+514,Karnataka,GULBARGA,2013,Kharif,Cotton(lint),47273,269445
+515,Karnataka,GULBARGA,2014,Kharif,Cotton(lint),82637,338020
+516,Karnataka,HASSAN,1998,Kharif,Cotton(lint),5225,5688
+517,Karnataka,HASSAN,1999,Kharif,Cotton(lint),5425,9278
+518,Karnataka,HASSAN,2000,Kharif,Cotton(lint),3462,5608
+519,Karnataka,HASSAN,2001,Kharif,Cotton(lint),2326,4147
+520,Karnataka,HASSAN,2002,Kharif,Cotton(lint),1802,957
+521,Karnataka,HASSAN,2003,Kharif,Cotton(lint),169,133
+522,Karnataka,HASSAN,2004,Kharif,Cotton(lint),1809,1795
+523,Karnataka,HASSAN,2005,Whole Year,Cotton(lint),1249,1221
+524,Karnataka,HASSAN,2006,Whole Year,Cotton(lint),3106,2551
+525,Karnataka,HASSAN,2007,Whole Year,Cotton(lint),1108,966
+526,Karnataka,HASSAN,2008,Whole Year,Cotton(lint),815,1303
+527,Karnataka,HASSAN,2009,Whole Year,Cotton(lint),297,453
+528,Karnataka,HASSAN,2010,Kharif,Cotton(lint),106,234
+529,Karnataka,HASSAN,2011,Kharif,Cotton(lint),88,178
+530,Karnataka,HASSAN,2012,Kharif,Cotton(lint),64,147
+531,Karnataka,HASSAN,2013,Kharif,Cotton(lint),281,832
+532,Karnataka,HASSAN,2014,Kharif,Cotton(lint),400,1091
+533,Karnataka,HAVERI,1998,Kharif,Cotton(lint),79382,91997
+534,Karnataka,HAVERI,1999,Kharif,Cotton(lint),71949,65398
+535,Karnataka,HAVERI,2000,Kharif,Cotton(lint),67008,119094
+536,Karnataka,HAVERI,2001,Kharif,Cotton(lint),80825,79106
+537,Karnataka,HAVERI,2002,Kharif,Cotton(lint),59585,49612
+538,Karnataka,HAVERI,2003,Kharif,Cotton(lint),47319,31332
+539,Karnataka,HAVERI,2004,Kharif,Cotton(lint),63400,92471
+540,Karnataka,HAVERI,2005,Whole Year,Cotton(lint),59771,96519
+541,Karnataka,HAVERI,2006,Whole Year,Cotton(lint),76459,129621
+542,Karnataka,HAVERI,2007,Whole Year,Cotton(lint),78900,152978
+543,Karnataka,HAVERI,2008,Whole Year,Cotton(lint),91934,163838
+544,Karnataka,HAVERI,2009,Whole Year,Cotton(lint),109231,143134
+545,Karnataka,HAVERI,2010,Kharif,Cotton(lint),100887,277675
+546,Karnataka,HAVERI,2010,Rabi,Cotton(lint),3843,2921
+547,Karnataka,HAVERI,2011,Kharif,Cotton(lint),104276,304176
+548,Karnataka,HAVERI,2011,Rabi,Cotton(lint),1865,1710
+549,Karnataka,HAVERI,2012,Kharif,Cotton(lint),64332,144873
+550,Karnataka,HAVERI,2012,Rabi,Cotton(lint),1327,1112
+551,Karnataka,HAVERI,2013,Kharif,Cotton(lint),96977,192919
+552,Karnataka,HAVERI,2013,Rabi,Cotton(lint),821,1514
+553,Karnataka,HAVERI,2014,Kharif,Cotton(lint),105249,211727
+554,Karnataka,HAVERI,2014,Rabi,Cotton(lint),244,281
+555,Karnataka,HAVERI,2014,Summer,Cotton(lint),534,1012
+556,Karnataka,KODAGU,1998,Kharif,Cotton(lint),2,3
+557,Karnataka,KOLAR,1998,Kharif,Cotton(lint),30,53
+558,Karnataka,KOPPAL,1998,Kharif,Cotton(lint),19182,18430
+559,Karnataka,KOPPAL,1999,Kharif,Cotton(lint),19037,14362
+560,Karnataka,KOPPAL,2000,Kharif,Cotton(lint),25417,20690
+561,Karnataka,KOPPAL,2001,Kharif,Cotton(lint),35991,38735
+562,Karnataka,KOPPAL,2002,Kharif,Cotton(lint),4684,4337
+563,Karnataka,KOPPAL,2003,Kharif,Cotton(lint),12569,5093
+564,Karnataka,KOPPAL,2004,Kharif,Cotton(lint),29156,26932
+565,Karnataka,KOPPAL,2005,Whole Year,Cotton(lint),11560,4788
+566,Karnataka,KOPPAL,2006,Whole Year,Cotton(lint),3779,1940
+567,Karnataka,KOPPAL,2007,Whole Year,Cotton(lint),12819,9164
+568,Karnataka,KOPPAL,2008,Whole Year,Cotton(lint),10878,15302
+569,Karnataka,KOPPAL,2009,Whole Year,Cotton(lint),17514,7430
+570,Karnataka,KOPPAL,2010,Kharif,Cotton(lint),2575,5108
+571,Karnataka,KOPPAL,2010,Rabi,Cotton(lint),18792,23661
+572,Karnataka,KOPPAL,2011,Kharif,Cotton(lint),4252,10621
+573,Karnataka,KOPPAL,2011,Rabi,Cotton(lint),6910,3128
+574,Karnataka,KOPPAL,2012,Kharif,Cotton(lint),4919,15393
+575,Karnataka,KOPPAL,2012,Rabi,Cotton(lint),4310,2071
+576,Karnataka,KOPPAL,2013,Kharif,Cotton(lint),4447,12077
+577,Karnataka,KOPPAL,2013,Rabi,Cotton(lint),7653,14112
+578,Karnataka,KOPPAL,2014,Kharif,Cotton(lint),12128,36529
+579,Karnataka,KOPPAL,2014,Rabi,Cotton(lint),10772,13182
+580,Karnataka,MANDYA,1998,Kharif,Cotton(lint),44,65
+581,Karnataka,MANDYA,1999,Kharif,Cotton(lint),109,121
+582,Karnataka,MANDYA,2000,Kharif,Cotton(lint),21,32
+583,Karnataka,MANDYA,2001,Kharif,Cotton(lint),1,2
+584,Karnataka,MANDYA,2002,Kharif,Cotton(lint),1,2
+585,Karnataka,MANDYA,2003,Kharif,Cotton(lint),2,5
+586,Karnataka,MANDYA,2004,Kharif,Cotton(lint),5,5
+587,Karnataka,MANDYA,2005,Whole Year,Cotton(lint),5,15
+588,Karnataka,MANDYA,2013,Kharif,Cotton(lint),4,12
+589,Karnataka,MANDYA,2014,Kharif,Cotton(lint),5,14
+590,Karnataka,MYSORE,1998,Kharif,Cotton(lint),59668,153042
+591,Karnataka,MYSORE,1999,Kharif,Cotton(lint),63107,154105
+592,Karnataka,MYSORE,2000,Kharif,Cotton(lint),64715,130909
+593,Karnataka,MYSORE,2001,Kharif,Cotton(lint),55918,76555
+594,Karnataka,MYSORE,2002,Kharif,Cotton(lint),36105,31900
+595,Karnataka,MYSORE,2003,Kharif,Cotton(lint),42809,33251
+596,Karnataka,MYSORE,2004,Kharif,Cotton(lint),72962,83989
+597,Karnataka,MYSORE,2005,Whole Year,Cotton(lint),46606,78651
+598,Karnataka,MYSORE,2006,Whole Year,Cotton(lint),55070,50468
+599,Karnataka,MYSORE,2007,Whole Year,Cotton(lint),52439,35750
+600,Karnataka,MYSORE,2008,Whole Year,Cotton(lint),43629,34863
+601,Karnataka,MYSORE,2009,Whole Year,Cotton(lint),41255,54175
+602,Karnataka,MYSORE,2010,Kharif,Cotton(lint),38897,62164
+603,Karnataka,MYSORE,2010,Rabi,Cotton(lint),133,288
+604,Karnataka,MYSORE,2011,Kharif,Cotton(lint),44335,100051
+605,Karnataka,MYSORE,2012,Kharif,Cotton(lint),44424,50145
+606,Karnataka,MYSORE,2012,Summer,Cotton(lint),67,186
+607,Karnataka,MYSORE,2013,Kharif,Cotton(lint),46165,136724
+608,Karnataka,MYSORE,2013,Summer,Cotton(lint),10,36
+609,Karnataka,MYSORE,2014,Kharif,Cotton(lint),48174,85874
+610,Karnataka,RAICHUR,1998,Kharif,Cotton(lint),49208,58421
+611,Karnataka,RAICHUR,1999,Kharif,Cotton(lint),34301,35606
+612,Karnataka,RAICHUR,2000,Kharif,Cotton(lint),36981,43909
+613,Karnataka,RAICHUR,2001,Kharif,Cotton(lint),44627,41939
+614,Karnataka,RAICHUR,2002,Kharif,Cotton(lint),31605,21270
+615,Karnataka,RAICHUR,2003,Kharif,Cotton(lint),31965,30941
+616,Karnataka,RAICHUR,2004,Kharif,Cotton(lint),35250,32681
+617,Karnataka,RAICHUR,2005,Whole Year,Cotton(lint),22061,31534
+618,Karnataka,RAICHUR,2006,Whole Year,Cotton(lint),12783,24291
+619,Karnataka,RAICHUR,2007,Whole Year,Cotton(lint),22259,51779
+620,Karnataka,RAICHUR,2008,Whole Year,Cotton(lint),26561,73442
+621,Karnataka,RAICHUR,2009,Whole Year,Cotton(lint),22101,53381
+622,Karnataka,RAICHUR,2010,Kharif,Cotton(lint),27086,55465
+623,Karnataka,RAICHUR,2010,Rabi,Cotton(lint),280,657
+624,Karnataka,RAICHUR,2011,Kharif,Cotton(lint),38467,69268
+625,Karnataka,RAICHUR,2012,Kharif,Cotton(lint),53170,174109
+626,Karnataka,RAICHUR,2012,Rabi,Cotton(lint),190,235
+627,Karnataka,RAICHUR,2013,Kharif,Cotton(lint),55755,165126
+628,Karnataka,RAICHUR,2014,Kharif,Cotton(lint),104970,302671
+629,Karnataka,RAMANAGARA,2014,Kharif,Cotton(lint),1,3
+630,Karnataka,SHIMOGA,1998,Kharif,Cotton(lint),18011,42405
+631,Karnataka,SHIMOGA,1999,Kharif,Cotton(lint),15072,27147
+632,Karnataka,SHIMOGA,2000,Kharif,Cotton(lint),9050,13958
+633,Karnataka,SHIMOGA,2001,Kharif,Cotton(lint),11760,13537
+634,Karnataka,SHIMOGA,2002,Kharif,Cotton(lint),7472,11023
+635,Karnataka,SHIMOGA,2003,Kharif,Cotton(lint),4809,7901
+636,Karnataka,SHIMOGA,2004,Kharif,Cotton(lint),6223,12067
+637,Karnataka,SHIMOGA,2005,Whole Year,Cotton(lint),6662,11764
+638,Karnataka,SHIMOGA,2006,Whole Year,Cotton(lint),9495,18836
+639,Karnataka,SHIMOGA,2007,Whole Year,Cotton(lint),4063,8923
+640,Karnataka,SHIMOGA,2008,Whole Year,Cotton(lint),3924,8596
+641,Karnataka,SHIMOGA,2009,Whole Year,Cotton(lint),1680,2460
+642,Karnataka,SHIMOGA,2010,Kharif,Cotton(lint),1479,2942
+643,Karnataka,SHIMOGA,2011,Kharif,Cotton(lint),1546,4786
+644,Karnataka,SHIMOGA,2012,Kharif,Cotton(lint),986,2265
+645,Karnataka,SHIMOGA,2013,Kharif,Cotton(lint),738,1905
+646,Karnataka,SHIMOGA,2013,Summer,Cotton(lint),1,4
+647,Karnataka,SHIMOGA,2014,Kharif,Cotton(lint),849,2111
+648,Karnataka,TUMKUR,1998,Kharif,Cotton(lint),1343,2020
+649,Karnataka,TUMKUR,1999,Kharif,Cotton(lint),548,920
+650,Karnataka,TUMKUR,2000,Kharif,Cotton(lint),695,1493
+651,Karnataka,TUMKUR,2001,Kharif,Cotton(lint),973,1809
+652,Karnataka,TUMKUR,2002,Kharif,Cotton(lint),856,1576
+653,Karnataka,TUMKUR,2003,Kharif,Cotton(lint),312,698
+654,Karnataka,TUMKUR,2004,Kharif,Cotton(lint),786,1186
+655,Karnataka,TUMKUR,2005,Whole Year,Cotton(lint),812,1609
+656,Karnataka,TUMKUR,2006,Whole Year,Cotton(lint),926,1761
+657,Karnataka,TUMKUR,2007,Whole Year,Cotton(lint),1046,2848
+658,Karnataka,TUMKUR,2008,Whole Year,Cotton(lint),668,2529
+659,Karnataka,TUMKUR,2009,Whole Year,Cotton(lint),852,2114
+660,Karnataka,TUMKUR,2010,Kharif,Cotton(lint),867,2659
+661,Karnataka,TUMKUR,2010,Rabi,Cotton(lint),101,219
+662,Karnataka,TUMKUR,2011,Kharif,Cotton(lint),1428,4046
+663,Karnataka,TUMKUR,2011,Rabi,Cotton(lint),20,38
+664,Karnataka,TUMKUR,2012,Kharif,Cotton(lint),1379,3167
+665,Karnataka,TUMKUR,2012,Summer,Cotton(lint),5,14
+666,Karnataka,TUMKUR,2013,Kharif,Cotton(lint),753,1675
+667,Karnataka,TUMKUR,2013,Rabi,Cotton(lint),2,4
+668,Karnataka,TUMKUR,2013,Summer,Cotton(lint),7,25
+669,Karnataka,TUMKUR,2014,Kharif,Cotton(lint),1742,4507
+670,Karnataka,TUMKUR,2014,Rabi,Cotton(lint),2,3
+671,Karnataka,TUMKUR,2014,Summer,Cotton(lint),9,17
+672,Karnataka,UTTAR KANNAD,1998,Kharif,Cotton(lint),6286,14823
+673,Karnataka,UTTAR KANNAD,1999,Kharif,Cotton(lint),6119,7351
+674,Karnataka,UTTAR KANNAD,2000,Kharif,Cotton(lint),5888,12536
+675,Karnataka,UTTAR KANNAD,2001,Kharif,Cotton(lint),5792,10033
+676,Karnataka,UTTAR KANNAD,2002,Kharif,Cotton(lint),5971,8308
+677,Karnataka,UTTAR KANNAD,2003,Kharif,Cotton(lint),6247,14522
+678,Karnataka,UTTAR KANNAD,2004,Kharif,Cotton(lint),7245,10162
+679,Karnataka,UTTAR KANNAD,2005,Whole Year,Cotton(lint),8176,5939
+680,Karnataka,UTTAR KANNAD,2006,Whole Year,Cotton(lint),8335,4285
+681,Karnataka,UTTAR KANNAD,2007,Whole Year,Cotton(lint),5596,5504
+682,Karnataka,UTTAR KANNAD,2008,Whole Year,Cotton(lint),3445,6391
+683,Karnataka,UTTAR KANNAD,2009,Whole Year,Cotton(lint),2783,5287
+684,Karnataka,UTTAR KANNAD,2010,Kharif,Cotton(lint),2986,8226
+685,Karnataka,UTTAR KANNAD,2011,Kharif,Cotton(lint),3208,3298
+686,Karnataka,UTTAR KANNAD,2012,Kharif,Cotton(lint),2597,5964
+687,Karnataka,UTTAR KANNAD,2013,Kharif,Cotton(lint),1351,2763
+688,Karnataka,UTTAR KANNAD,2014,Kharif,Cotton(lint),1412,2612
+689,Karnataka,YADGIR,2010,Kharif,Cotton(lint),33316,87054
+690,Karnataka,YADGIR,2011,Kharif,Cotton(lint),61892,109239
+691,Karnataka,YADGIR,2011,Rabi,Cotton(lint),3,6
+692,Karnataka,YADGIR,2012,Kharif,Cotton(lint),59706,183167
+693,Karnataka,YADGIR,2013,Kharif,Cotton(lint),80504,381928
+694,Karnataka,YADGIR,2014,Kharif,Cotton(lint),103866,362752
+695,Manipur,CHURACHANDPUR,1998,Autumn,Cotton(lint),30,20
+696,Manipur,CHURACHANDPUR,1998,Winter,Cotton(lint),30,10
+697,Manipur,CHURACHANDPUR,1999,Kharif,Cotton(lint),50,30
+698,Manipur,CHURACHANDPUR,2000,Kharif,Cotton(lint),60,20
+699,Manipur,CHURACHANDPUR,2001,Kharif,Cotton(lint),90,30
+700,Manipur,CHURACHANDPUR,2006,Kharif,Cotton(lint),210,70
+701,Manipur,CHURACHANDPUR,2007,Kharif,Cotton(lint),210,70
+702,Manipur,IMPHAL WEST,1998,Rabi,Cotton(lint),10,10
+703,Meghalaya,EAST GARO HILLS,1997,Kharif,Cotton(lint),2720,1960
+704,Meghalaya,EAST GARO HILLS,1998,Kharif,Cotton(lint),2726,1972
+705,Meghalaya,EAST GARO HILLS,1999,Kharif,Cotton(lint),2730,1991
+706,Meghalaya,EAST GARO HILLS,2000,Kharif,Cotton(lint),2734,3506
+707,Meghalaya,EAST GARO HILLS,2001,Kharif,Cotton(lint),2730,3533
+708,Meghalaya,EAST GARO HILLS,2002,Kharif,Cotton(lint),2722,3522
+709,Meghalaya,EAST GARO HILLS,2003,Kharif,Cotton(lint),2705,3501
+710,Meghalaya,EAST GARO HILLS,2004,Kharif,Cotton(lint),2674,3460
+711,Meghalaya,EAST GARO HILLS,2005,Kharif,Cotton(lint),2660,3471
+712,Meghalaya,EAST GARO HILLS,2006,Rabi,Cotton(lint),2640,3440
+713,Meghalaya,EAST GARO HILLS,2007,Kharif,Cotton(lint),2618,2233
+714,Meghalaya,EAST GARO HILLS,2008,Kharif,Cotton(lint),2539,1867
+715,Meghalaya,EAST GARO HILLS,2009,Kharif,Cotton(lint),2540,1868
+716,Meghalaya,EAST GARO HILLS,2010,Kharif,Cotton(lint),2506,1740
+717,Meghalaya,EAST GARO HILLS,2011,Kharif,Cotton(lint),2516,1776
+718,Meghalaya,EAST GARO HILLS,2012,Kharif,Cotton(lint),2655,2328
+719,Meghalaya,EAST GARO HILLS,2013,Kharif,Cotton(lint),1801,1653
+720,Meghalaya,EAST GARO HILLS,2014,Kharif,Cotton(lint),1809,1741
+721,Meghalaya,NORTH GARO HILLS,2013,Kharif,Cotton(lint),863,743
+722,Meghalaya,NORTH GARO HILLS,2014,Kharif,Cotton(lint),866,773
+723,Meghalaya,SOUTH GARO HILLS,1997,Kharif,Cotton(lint),321,299
+724,Meghalaya,SOUTH GARO HILLS,1998,Kharif,Cotton(lint),322,299
+725,Meghalaya,SOUTH GARO HILLS,1999,Kharif,Cotton(lint),307,284
+726,Meghalaya,SOUTH GARO HILLS,2000,Kharif,Cotton(lint),240,220
+727,Meghalaya,SOUTH GARO HILLS,2001,Kharif,Cotton(lint),220,201
+728,Meghalaya,SOUTH GARO HILLS,2002,Kharif,Cotton(lint),215,196
+729,Meghalaya,SOUTH GARO HILLS,2003,Kharif,Cotton(lint),208,183
+730,Meghalaya,SOUTH GARO HILLS,2004,Kharif,Cotton(lint),195,176
+731,Meghalaya,SOUTH GARO HILLS,2005,Kharif,Cotton(lint),193,174
+732,Meghalaya,SOUTH GARO HILLS,2006,Rabi,Cotton(lint),189,172
+733,Meghalaya,SOUTH GARO HILLS,2007,Kharif,Cotton(lint),189,170
+734,Meghalaya,SOUTH GARO HILLS,2008,Kharif,Cotton(lint),185,169
+735,Meghalaya,SOUTH GARO HILLS,2009,Kharif,Cotton(lint),187,167
+736,Meghalaya,SOUTH GARO HILLS,2010,Kharif,Cotton(lint),185,165
+737,Meghalaya,SOUTH GARO HILLS,2011,Kharif,Cotton(lint),190,179
+738,Meghalaya,SOUTH GARO HILLS,2012,Kharif,Cotton(lint),201,238
+739,Meghalaya,SOUTH GARO HILLS,2013,Kharif,Cotton(lint),202,245
+740,Meghalaya,SOUTH GARO HILLS,2014,Kharif,Cotton(lint),203,258
+741,Meghalaya,SOUTH WEST GARO HILLS,2013,Kharif,Cotton(lint),441,565
+742,Meghalaya,SOUTH WEST GARO HILLS,2014,Kharif,Cotton(lint),448,625
+743,Meghalaya,WEST GARO HILLS,1997,Kharif,Cotton(lint),4503,3331
+744,Meghalaya,WEST GARO HILLS,1998,Kharif,Cotton(lint),4501,3328
+745,Meghalaya,WEST GARO HILLS,1999,Kharif,Cotton(lint),4418,3274
+746,Meghalaya,WEST GARO HILLS,2000,Kharif,Cotton(lint),4366,3958
+747,Meghalaya,WEST GARO HILLS,2001,Kharif,Cotton(lint),4373,4139
+748,Meghalaya,WEST GARO HILLS,2002,Kharif,Cotton(lint),4373,4111
+749,Meghalaya,WEST GARO HILLS,2003,Kharif,Cotton(lint),4368,4108
+750,Meghalaya,WEST GARO HILLS,2004,Kharif,Cotton(lint),4362,4129
+751,Meghalaya,WEST GARO HILLS,2005,Kharif,Cotton(lint),4378,4123
+752,Meghalaya,WEST GARO HILLS,2006,Rabi,Cotton(lint),4379,4126
+753,Meghalaya,WEST GARO HILLS,2007,Kharif,Cotton(lint),4379,4128
+754,Meghalaya,WEST GARO HILLS,2008,Kharif,Cotton(lint),4382,3581
+755,Meghalaya,WEST GARO HILLS,2009,Kharif,Cotton(lint),4164,3456
+756,Meghalaya,WEST GARO HILLS,2010,Kharif,Cotton(lint),4125,3666
+757,Meghalaya,WEST GARO HILLS,2011,Kharif,Cotton(lint),4165,4434
+758,Meghalaya,WEST GARO HILLS,2012,Kharif,Cotton(lint),4394,5793
+759,Meghalaya,WEST GARO HILLS,2013,Kharif,Cotton(lint),3968,5396
+760,Meghalaya,WEST GARO HILLS,2014,Kharif,Cotton(lint),3979,5627
+761,Tamil Nadu,ARIYALUR,2008,Whole Year,Cotton(lint),3566,
+762,Tamil Nadu,ARIYALUR,2009,Whole Year,Cotton(lint),4074,11033
+763,Tamil Nadu,ARIYALUR,2010,Kharif,Cotton(lint),5684,9361
+764,Tamil Nadu,ARIYALUR,2011,Kharif,Cotton(lint),7661,36179
+765,Tamil Nadu,ARIYALUR,2011,Rabi,Cotton(lint),150,413
+766,Tamil Nadu,ARIYALUR,2012,Kharif,Cotton(lint),8634,15664
+767,Tamil Nadu,ARIYALUR,2013,Kharif,Cotton(lint),8815,29867
+768,Tamil Nadu,ARIYALUR,2013,Rabi,Cotton(lint),303,727
+769,Tamil Nadu,COIMBATORE,1997,Whole Year,Cotton(lint),16858,30610
+770,Tamil Nadu,COIMBATORE,1998,Kharif,Cotton(lint),15370,32294
+771,Tamil Nadu,COIMBATORE,1999,Kharif,Cotton(lint),7627,12264
+772,Tamil Nadu,COIMBATORE,2000,Kharif,Cotton(lint),6674,10987
+773,Tamil Nadu,COIMBATORE,2001,Kharif,Cotton(lint),10220,14650
+774,Tamil Nadu,COIMBATORE,2002,Kharif,Cotton(lint),5103,3024
+775,Tamil Nadu,COIMBATORE,2003,Kharif,Cotton(lint),6881,8600
+776,Tamil Nadu,COIMBATORE,2004,Kharif,Cotton(lint),11547,14808
+777,Tamil Nadu,COIMBATORE,2005,Kharif,Cotton(lint),6436,5710
+778,Tamil Nadu,COIMBATORE,2006,Whole Year,Cotton(lint),3698,6518
+779,Tamil Nadu,COIMBATORE,2007,Whole Year,Cotton(lint),1997,2609
+780,Tamil Nadu,COIMBATORE,2008,Whole Year,Cotton(lint),1184,2220
+781,Tamil Nadu,COIMBATORE,2009,Whole Year,Cotton(lint),948,3010
+782,Tamil Nadu,COIMBATORE,2010,Kharif,Cotton(lint),878,2269
+783,Tamil Nadu,COIMBATORE,2011,Kharif,Cotton(lint),1316,5227
+784,Tamil Nadu,COIMBATORE,2011,Rabi,Cotton(lint),118,325
+785,Tamil Nadu,COIMBATORE,2012,Kharif,Cotton(lint),558,979
+786,Tamil Nadu,COIMBATORE,2013,Kharif,Cotton(lint),336,768
+787,Tamil Nadu,COIMBATORE,2013,Rabi,Cotton(lint),12,29
+788,Tamil Nadu,CUDDALORE,1997,Whole Year,Cotton(lint),2147,2840
+789,Tamil Nadu,CUDDALORE,1998,Kharif,Cotton(lint),2299,4047
+790,Tamil Nadu,CUDDALORE,1999,Kharif,Cotton(lint),2926,3778
+791,Tamil Nadu,CUDDALORE,2000,Kharif,Cotton(lint),1693,2561
+792,Tamil Nadu,CUDDALORE,2001,Kharif,Cotton(lint),1877,2410
+793,Tamil Nadu,CUDDALORE,2002,Kharif,Cotton(lint),668,1267
+794,Tamil Nadu,CUDDALORE,2003,Kharif,Cotton(lint),602,1031
+795,Tamil Nadu,CUDDALORE,2004,Kharif,Cotton(lint),1572,1734
+796,Tamil Nadu,CUDDALORE,2005,Kharif,Cotton(lint),1330,1497
+797,Tamil Nadu,CUDDALORE,2006,Whole Year,Cotton(lint),1808,2415
+798,Tamil Nadu,CUDDALORE,2007,Whole Year,Cotton(lint),2253,2291
+799,Tamil Nadu,CUDDALORE,2008,Whole Year,Cotton(lint),4821,2965
+800,Tamil Nadu,CUDDALORE,2009,Whole Year,Cotton(lint),4630,5232
+801,Tamil Nadu,CUDDALORE,2010,Kharif,Cotton(lint),6242,3532
+802,Tamil Nadu,CUDDALORE,2011,Kharif,Cotton(lint),5581,13988
+803,Tamil Nadu,CUDDALORE,2011,Rabi,Cotton(lint),203,559
+804,Tamil Nadu,CUDDALORE,2012,Kharif,Cotton(lint),5067,12101
+805,Tamil Nadu,CUDDALORE,2013,Kharif,Cotton(lint),8243,29081
+806,Tamil Nadu,CUDDALORE,2013,Rabi,Cotton(lint),371,891
+807,Tamil Nadu,DHARMAPURI,1997,Whole Year,Cotton(lint),25630,42660
+808,Tamil Nadu,DHARMAPURI,1998,Kharif,Cotton(lint),18964,32671
+809,Tamil Nadu,DHARMAPURI,1999,Kharif,Cotton(lint),13721,27047
+810,Tamil Nadu,DHARMAPURI,2000,Kharif,Cotton(lint),12364,24358
+811,Tamil Nadu,DHARMAPURI,2001,Kharif,Cotton(lint),12587,18550
+812,Tamil Nadu,DHARMAPURI,2002,Kharif,Cotton(lint),3325,2335
+813,Tamil Nadu,DHARMAPURI,2003,Kharif,Cotton(lint),6031,7148
+814,Tamil Nadu,DHARMAPURI,2004,Kharif,Cotton(lint),7260,10699
+815,Tamil Nadu,DHARMAPURI,2005,Kharif,Cotton(lint),6580,11325
+816,Tamil Nadu,DHARMAPURI,2006,Whole Year,Cotton(lint),5260,13315
+817,Tamil Nadu,DHARMAPURI,2007,Whole Year,Cotton(lint),4888,10797
+818,Tamil Nadu,DHARMAPURI,2008,Whole Year,Cotton(lint),6087,12847
+819,Tamil Nadu,DHARMAPURI,2009,Whole Year,Cotton(lint),8015,14880
+820,Tamil Nadu,DHARMAPURI,2010,Kharif,Cotton(lint),7444,19187
+821,Tamil Nadu,DHARMAPURI,2011,Kharif,Cotton(lint),8738,28121
+822,Tamil Nadu,DHARMAPURI,2011,Rabi,Cotton(lint),2290,6301
+823,Tamil Nadu,DHARMAPURI,2012,Kharif,Cotton(lint),13662,41593
+824,Tamil Nadu,DHARMAPURI,2013,Kharif,Cotton(lint),11462,33815
+825,Tamil Nadu,DHARMAPURI,2013,Rabi,Cotton(lint),1024,2641
+826,Tamil Nadu,DINDIGUL,1997,Whole Year,Cotton(lint),7844,24770
+827,Tamil Nadu,DINDIGUL,1998,Kharif,Cotton(lint),12558,31723
+828,Tamil Nadu,DINDIGUL,1999,Kharif,Cotton(lint),7287,18306
+829,Tamil Nadu,DINDIGUL,2000,Kharif,Cotton(lint),7502,22288
+830,Tamil Nadu,DINDIGUL,2001,Kharif,Cotton(lint),4092,8910
+831,Tamil Nadu,DINDIGUL,2002,Kharif,Cotton(lint),1859,1949
+832,Tamil Nadu,DINDIGUL,2003,Kharif,Cotton(lint),2095,2694
+833,Tamil Nadu,DINDIGUL,2004,Kharif,Cotton(lint),3703,6173
+834,Tamil Nadu,DINDIGUL,2005,Kharif,Cotton(lint),1999,4345
+835,Tamil Nadu,DINDIGUL,2006,Whole Year,Cotton(lint),1519,4396
+836,Tamil Nadu,DINDIGUL,2007,Whole Year,Cotton(lint),1256,3402
+837,Tamil Nadu,DINDIGUL,2008,Whole Year,Cotton(lint),664,1066
+838,Tamil Nadu,DINDIGUL,2009,Whole Year,Cotton(lint),969,3215
+839,Tamil Nadu,DINDIGUL,2010,Kharif,Cotton(lint),1559,4327
+840,Tamil Nadu,DINDIGUL,2011,Kharif,Cotton(lint),1044,2979
+841,Tamil Nadu,DINDIGUL,2011,Rabi,Cotton(lint),1755,7399
+842,Tamil Nadu,DINDIGUL,2012,Kharif,Cotton(lint),2155,3593
+843,Tamil Nadu,DINDIGUL,2013,Kharif,Cotton(lint),639,1990
+844,Tamil Nadu,DINDIGUL,2013,Rabi,Cotton(lint),1457,2755
+845,Tamil Nadu,ERODE,1997,Whole Year,Cotton(lint),10585,23450
+846,Tamil Nadu,ERODE,1998,Kharif,Cotton(lint),10800,24165
+847,Tamil Nadu,ERODE,1999,Kharif,Cotton(lint),8553,17032
+848,Tamil Nadu,ERODE,2000,Kharif,Cotton(lint),11156,22347
+849,Tamil Nadu,ERODE,2001,Kharif,Cotton(lint),9738,21230
+850,Tamil Nadu,ERODE,2002,Kharif,Cotton(lint),2709,4717
+851,Tamil Nadu,ERODE,2003,Kharif,Cotton(lint),2815,3852
+852,Tamil Nadu,ERODE,2004,Kharif,Cotton(lint),5434,12272
+853,Tamil Nadu,ERODE,2005,Kharif,Cotton(lint),4652,12347
+854,Tamil Nadu,ERODE,2006,Whole Year,Cotton(lint),2835,11180
+855,Tamil Nadu,ERODE,2007,Whole Year,Cotton(lint),1983,6906
+856,Tamil Nadu,ERODE,2008,Whole Year,Cotton(lint),1761,6605
+857,Tamil Nadu,ERODE,2009,Whole Year,Cotton(lint),1421,6226
+858,Tamil Nadu,ERODE,2010,Kharif,Cotton(lint),1347,4552
+859,Tamil Nadu,ERODE,2011,Kharif,Cotton(lint),279,1216
+860,Tamil Nadu,ERODE,2011,Rabi,Cotton(lint),569,1452
+861,Tamil Nadu,ERODE,2012,Kharif,Cotton(lint),696,1713
+862,Tamil Nadu,ERODE,2013,Kharif,Cotton(lint),448,1284
+863,Tamil Nadu,ERODE,2013,Rabi,Cotton(lint),120,241
+864,Tamil Nadu,KANCHIPURAM,1997,Whole Year,Cotton(lint),119,230
+865,Tamil Nadu,KANCHIPURAM,1998,Kharif,Cotton(lint),90,206
+866,Tamil Nadu,KANCHIPURAM,1999,Kharif,Cotton(lint),192,454
+867,Tamil Nadu,KANCHIPURAM,2000,Kharif,Cotton(lint),234,559
+868,Tamil Nadu,KANCHIPURAM,2001,Kharif,Cotton(lint),171,350
+869,Tamil Nadu,KANCHIPURAM,2002,Kharif,Cotton(lint),141,275
+870,Tamil Nadu,KANCHIPURAM,2003,Kharif,Cotton(lint),162,304
+871,Tamil Nadu,KANCHIPURAM,2004,Kharif,Cotton(lint),114,223
+872,Tamil Nadu,KANCHIPURAM,2005,Kharif,Cotton(lint),114,241
+873,Tamil Nadu,KANCHIPURAM,2006,Whole Year,Cotton(lint),13,35
+874,Tamil Nadu,KANCHIPURAM,2007,Whole Year,Cotton(lint),12,32
+875,Tamil Nadu,KANCHIPURAM,2008,Whole Year,Cotton(lint),2,6
+876,Tamil Nadu,KANCHIPURAM,2009,Whole Year,Cotton(lint),2,5
+877,Tamil Nadu,KANCHIPURAM,2010,Kharif,Cotton(lint),1,2
+878,Tamil Nadu,KANCHIPURAM,2013,Kharif,Cotton(lint),1,3
+879,Tamil Nadu,KANNIYAKUMARI,1999,Kharif,Cotton(lint),1,2
+880,Tamil Nadu,KANNIYAKUMARI,2000,Kharif,Cotton(lint),4,8
+881,Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Cotton(lint),4,1
+882,Tamil Nadu,KANNIYAKUMARI,2006,Whole Year,Cotton(lint),12,23
+883,Tamil Nadu,KANNIYAKUMARI,2007,Whole Year,Cotton(lint),10,17
+884,Tamil Nadu,KANNIYAKUMARI,2009,Whole Year,Cotton(lint),10,20
+885,Tamil Nadu,KARUR,1997,Whole Year,Cotton(lint),900,1660
+886,Tamil Nadu,KARUR,1998,Kharif,Cotton(lint),1226,2706
+887,Tamil Nadu,KARUR,1999,Kharif,Cotton(lint),1281,2351
+888,Tamil Nadu,KARUR,2000,Kharif,Cotton(lint),1246,2603
+889,Tamil Nadu,KARUR,2001,Kharif,Cotton(lint),490,850
+890,Tamil Nadu,KARUR,2002,Kharif,Cotton(lint),145,245
+891,Tamil Nadu,KARUR,2003,Kharif,Cotton(lint),309,462
+892,Tamil Nadu,KARUR,2004,Kharif,Cotton(lint),445,760
+893,Tamil Nadu,KARUR,2005,Kharif,Cotton(lint),300,546
+894,Tamil Nadu,KARUR,2006,Whole Year,Cotton(lint),149,375
+895,Tamil Nadu,KARUR,2007,Whole Year,Cotton(lint),114,302
+896,Tamil Nadu,KARUR,2008,Whole Year,Cotton(lint),68,187
+897,Tamil Nadu,KARUR,2009,Whole Year,Cotton(lint),74,193
+898,Tamil Nadu,KARUR,2010,Kharif,Cotton(lint),82,155
+899,Tamil Nadu,KARUR,2011,Kharif,Cotton(lint),61,174
+900,Tamil Nadu,KARUR,2011,Rabi,Cotton(lint),18,50
+901,Tamil Nadu,KARUR,2012,Kharif,Cotton(lint),63,117
+902,Tamil Nadu,KARUR,2013,Kharif,Cotton(lint),92,264
+903,Tamil Nadu,KARUR,2013,Rabi,Cotton(lint),1,2
+904,Tamil Nadu,KRISHNAGIRI,2004,Kharif,Cotton(lint),2572,3531
+905,Tamil Nadu,KRISHNAGIRI,2005,Kharif,Cotton(lint),2275,2359
+906,Tamil Nadu,KRISHNAGIRI,2006,Whole Year,Cotton(lint),1605,1342
+907,Tamil Nadu,KRISHNAGIRI,2007,Whole Year,Cotton(lint),1245,1048
+908,Tamil Nadu,KRISHNAGIRI,2008,Whole Year,Cotton(lint),1212,1052
+909,Tamil Nadu,KRISHNAGIRI,2009,Whole Year,Cotton(lint),1296,2988
+910,Tamil Nadu,KRISHNAGIRI,2010,Kharif,Cotton(lint),1592,3686
+911,Tamil Nadu,KRISHNAGIRI,2011,Kharif,Cotton(lint),1539,3941
+912,Tamil Nadu,KRISHNAGIRI,2011,Rabi,Cotton(lint),156,429
+913,Tamil Nadu,KRISHNAGIRI,2012,Kharif,Cotton(lint),1506,4003
+914,Tamil Nadu,KRISHNAGIRI,2013,Kharif,Cotton(lint),1912,5802
+915,Tamil Nadu,KRISHNAGIRI,2013,Rabi,Cotton(lint),170,408
+916,Tamil Nadu,MADURAI,1997,Whole Year,Cotton(lint),13061,8580
+917,Tamil Nadu,MADURAI,1998,Kharif,Cotton(lint),17147,26970
+918,Tamil Nadu,MADURAI,1999,Kharif,Cotton(lint),12052,14907
+919,Tamil Nadu,MADURAI,2000,Kharif,Cotton(lint),10952,12635
+920,Tamil Nadu,MADURAI,2001,Kharif,Cotton(lint),11094,9220
+921,Tamil Nadu,MADURAI,2002,Kharif,Cotton(lint),9505,6153
+922,Tamil Nadu,MADURAI,2003,Kharif,Cotton(lint),10651,6570
+923,Tamil Nadu,MADURAI,2004,Kharif,Cotton(lint),12035,6820
+924,Tamil Nadu,MADURAI,2005,Kharif,Cotton(lint),10432,13734
+925,Tamil Nadu,MADURAI,2006,Whole Year,Cotton(lint),9368,14095
+926,Tamil Nadu,MADURAI,2007,Whole Year,Cotton(lint),7477,11450
+927,Tamil Nadu,MADURAI,2008,Whole Year,Cotton(lint),7207,13369
+928,Tamil Nadu,MADURAI,2009,Whole Year,Cotton(lint),5839,8408
+929,Tamil Nadu,MADURAI,2010,Kharif,Cotton(lint),6896,12119
+930,Tamil Nadu,MADURAI,2011,Kharif,Cotton(lint),4374,8553
+931,Tamil Nadu,MADURAI,2011,Rabi,Cotton(lint),2317,5476
+932,Tamil Nadu,MADURAI,2012,Kharif,Cotton(lint),5182,6853
+933,Tamil Nadu,MADURAI,2013,Kharif,Cotton(lint),3492,6008
+934,Tamil Nadu,MADURAI,2013,Rabi,Cotton(lint),2403,3853
+935,Tamil Nadu,NAGAPATTINAM,1997,Whole Year,Cotton(lint),1368,2420
+936,Tamil Nadu,NAGAPATTINAM,1998,Kharif,Cotton(lint),1582,3618
+937,Tamil Nadu,NAGAPATTINAM,1999,Kharif,Cotton(lint),286,626
+938,Tamil Nadu,NAGAPATTINAM,2000,Kharif,Cotton(lint),1446,3242
+939,Tamil Nadu,NAGAPATTINAM,2001,Kharif,Cotton(lint),1883,2730
+940,Tamil Nadu,NAGAPATTINAM,2002,Kharif,Cotton(lint),1185,2313
+941,Tamil Nadu,NAGAPATTINAM,2003,Kharif,Cotton(lint),3793,7122
+942,Tamil Nadu,NAGAPATTINAM,2004,Kharif,Cotton(lint),3843,6530
+943,Tamil Nadu,NAGAPATTINAM,2005,Kharif,Cotton(lint),2131,4541
+944,Tamil Nadu,NAGAPATTINAM,2006,Whole Year,Cotton(lint),370,972
+945,Tamil Nadu,NAGAPATTINAM,2007,Whole Year,Cotton(lint),1269,1505
+946,Tamil Nadu,NAGAPATTINAM,2008,Whole Year,Cotton(lint),421,500
+947,Tamil Nadu,NAGAPATTINAM,2009,Whole Year,Cotton(lint),317,657
+948,Tamil Nadu,NAGAPATTINAM,2010,Kharif,Cotton(lint),261,763
+949,Tamil Nadu,NAGAPATTINAM,2011,Kharif,Cotton(lint),1,3
+950,Tamil Nadu,NAGAPATTINAM,2011,Rabi,Cotton(lint),316,917
+951,Tamil Nadu,NAGAPATTINAM,2012,Kharif,Cotton(lint),675,1694
+952,Tamil Nadu,NAGAPATTINAM,2013,Rabi,Cotton(lint),2496,9850
+953,Tamil Nadu,NAMAKKAL,1997,Whole Year,Cotton(lint),3429,7730
+954,Tamil Nadu,NAMAKKAL,1998,Kharif,Cotton(lint),2549,6418
+955,Tamil Nadu,NAMAKKAL,1999,Kharif,Cotton(lint),3468,7390
+956,Tamil Nadu,NAMAKKAL,2000,Kharif,Cotton(lint),3992,8366
+957,Tamil Nadu,NAMAKKAL,2001,Kharif,Cotton(lint),3462,7450
+958,Tamil Nadu,NAMAKKAL,2002,Kharif,Cotton(lint),2318,4117
+959,Tamil Nadu,NAMAKKAL,2003,Kharif,Cotton(lint),2699,4556
+960,Tamil Nadu,NAMAKKAL,2004,Kharif,Cotton(lint),3488,5486
+961,Tamil Nadu,NAMAKKAL,2005,Kharif,Cotton(lint),3140,7789
+962,Tamil Nadu,NAMAKKAL,2006,Whole Year,Cotton(lint),3162,10016
+963,Tamil Nadu,NAMAKKAL,2007,Whole Year,Cotton(lint),3058,8831
+964,Tamil Nadu,NAMAKKAL,2008,Whole Year,Cotton(lint),3090,9434
+965,Tamil Nadu,NAMAKKAL,2009,Whole Year,Cotton(lint),2816,8372
+966,Tamil Nadu,NAMAKKAL,2010,Kharif,Cotton(lint),2188,7930
+967,Tamil Nadu,NAMAKKAL,2011,Kharif,Cotton(lint),1293,5802
+968,Tamil Nadu,NAMAKKAL,2011,Rabi,Cotton(lint),1605,6002
+969,Tamil Nadu,NAMAKKAL,2012,Kharif,Cotton(lint),2735,5318
+970,Tamil Nadu,NAMAKKAL,2013,Kharif,Cotton(lint),1306,5637
+971,Tamil Nadu,NAMAKKAL,2013,Rabi,Cotton(lint),602,1808
+972,Tamil Nadu,PERAMBALUR,1997,Whole Year,Cotton(lint),24956,34970
+973,Tamil Nadu,PERAMBALUR,1998,Kharif,Cotton(lint),21782,39429
+974,Tamil Nadu,PERAMBALUR,1999,Kharif,Cotton(lint),20222,25954
+975,Tamil Nadu,PERAMBALUR,2000,Kharif,Cotton(lint),17103,24204
+976,Tamil Nadu,PERAMBALUR,2001,Kharif,Cotton(lint),18396,22910
+977,Tamil Nadu,PERAMBALUR,2002,Kharif,Cotton(lint),1469,1653
+978,Tamil Nadu,PERAMBALUR,2003,Kharif,Cotton(lint),2024,3093
+979,Tamil Nadu,PERAMBALUR,2004,Kharif,Cotton(lint),2794,4827
+980,Tamil Nadu,PERAMBALUR,2005,Kharif,Cotton(lint),4181,5926
+981,Tamil Nadu,PERAMBALUR,2006,Whole Year,Cotton(lint),9515,21491
+982,Tamil Nadu,PERAMBALUR,2007,Whole Year,Cotton(lint),15267,27492
+983,Tamil Nadu,PERAMBALUR,2008,Whole Year,Cotton(lint),24243,35178
+984,Tamil Nadu,PERAMBALUR,2009,Whole Year,Cotton(lint),19231,43903
+985,Tamil Nadu,PERAMBALUR,2010,Kharif,Cotton(lint),27263,42145
+986,Tamil Nadu,PERAMBALUR,2011,Kharif,Cotton(lint),26131,69123
+987,Tamil Nadu,PERAMBALUR,2011,Rabi,Cotton(lint),19,41
+988,Tamil Nadu,PERAMBALUR,2012,Kharif,Cotton(lint),24280,27733
+989,Tamil Nadu,PERAMBALUR,2013,Kharif,Cotton(lint),30052,88685
+990,Tamil Nadu,PERAMBALUR,2013,Rabi,Cotton(lint),1035,2485
+991,Tamil Nadu,PUDUKKOTTAI,1997,Whole Year,Cotton(lint),180,340
+992,Tamil Nadu,PUDUKKOTTAI,1998,Kharif,Cotton(lint),1118,2429
+993,Tamil Nadu,PUDUKKOTTAI,1999,Kharif,Cotton(lint),1162,2620
+994,Tamil Nadu,PUDUKKOTTAI,2000,Kharif,Cotton(lint),1396,3189
+995,Tamil Nadu,PUDUKKOTTAI,2001,Kharif,Cotton(lint),443,870
+996,Tamil Nadu,PUDUKKOTTAI,2002,Kharif,Cotton(lint),67,126
+997,Tamil Nadu,PUDUKKOTTAI,2003,Kharif,Cotton(lint),140,164
+998,Tamil Nadu,PUDUKKOTTAI,2004,Kharif,Cotton(lint),246,314
+999,Tamil Nadu,PUDUKKOTTAI,2005,Kharif,Cotton(lint),74,135
+1000,Tamil Nadu,PUDUKKOTTAI,2006,Whole Year,Cotton(lint),64,139
+1001,Tamil Nadu,PUDUKKOTTAI,2007,Whole Year,Cotton(lint),112,296
+1002,Tamil Nadu,PUDUKKOTTAI,2008,Whole Year,Cotton(lint),67,168
+1003,Tamil Nadu,PUDUKKOTTAI,2009,Whole Year,Cotton(lint),13,35
+1004,Tamil Nadu,PUDUKKOTTAI,2010,Kharif,Cotton(lint),12,22
+1005,Tamil Nadu,PUDUKKOTTAI,2011,Kharif,Cotton(lint),41,117
+1006,Tamil Nadu,PUDUKKOTTAI,2011,Rabi,Cotton(lint),1,3
+1007,Tamil Nadu,PUDUKKOTTAI,2012,Kharif,Cotton(lint),10,18
+1008,Tamil Nadu,PUDUKKOTTAI,2013,Kharif,Cotton(lint),10,29
+1009,Tamil Nadu,PUDUKKOTTAI,2013,Rabi,Cotton(lint),1,2
+1010,Tamil Nadu,RAMANATHAPURAM,1997,Whole Year,Cotton(lint),2373,1890
+1011,Tamil Nadu,RAMANATHAPURAM,1998,Kharif,Cotton(lint),5442,9012
+1012,Tamil Nadu,RAMANATHAPURAM,1999,Kharif,Cotton(lint),2139,1927
+1013,Tamil Nadu,RAMANATHAPURAM,2000,Kharif,Cotton(lint),8387,8112
+1014,Tamil Nadu,RAMANATHAPURAM,2001,Kharif,Cotton(lint),4415,4820
+1015,Tamil Nadu,RAMANATHAPURAM,2002,Kharif,Cotton(lint),1529,1040
+1016,Tamil Nadu,RAMANATHAPURAM,2003,Kharif,Cotton(lint),3310,403
+1017,Tamil Nadu,RAMANATHAPURAM,2004,Kharif,Cotton(lint),5413,3802
+1018,Tamil Nadu,RAMANATHAPURAM,2005,Kharif,Cotton(lint),3733,2959
+1019,Tamil Nadu,RAMANATHAPURAM,2006,Whole Year,Cotton(lint),2859,2361
+1020,Tamil Nadu,RAMANATHAPURAM,2007,Whole Year,Cotton(lint),2165,1639
+1021,Tamil Nadu,RAMANATHAPURAM,2008,Whole Year,Cotton(lint),1097,682
+1022,Tamil Nadu,RAMANATHAPURAM,2009,Whole Year,Cotton(lint),772,362
+1023,Tamil Nadu,RAMANATHAPURAM,2010,Kharif,Cotton(lint),1167,1613
+1024,Tamil Nadu,RAMANATHAPURAM,2011,Kharif,Cotton(lint),4,11
+1025,Tamil Nadu,RAMANATHAPURAM,2011,Rabi,Cotton(lint),2040,4369
+1026,Tamil Nadu,RAMANATHAPURAM,2012,Kharif,Cotton(lint),1576,1134
+1027,Tamil Nadu,RAMANATHAPURAM,2013,Kharif,Cotton(lint),55,158
+1028,Tamil Nadu,RAMANATHAPURAM,2013,Rabi,Cotton(lint),2735,8634
+1029,Tamil Nadu,SALEM,1997,Whole Year,Cotton(lint),22372,46890
+1030,Tamil Nadu,SALEM,1998,Kharif,Cotton(lint),16716,35136
+1031,Tamil Nadu,SALEM,1999,Kharif,Cotton(lint),15898,28290
+1032,Tamil Nadu,SALEM,2000,Kharif,Cotton(lint),15630,29270
+1033,Tamil Nadu,SALEM,2001,Kharif,Cotton(lint),13396,24140
+1034,Tamil Nadu,SALEM,2002,Kharif,Cotton(lint),5915,7337
+1035,Tamil Nadu,SALEM,2003,Kharif,Cotton(lint),7684,10806
+1036,Tamil Nadu,SALEM,2004,Kharif,Cotton(lint),14958,28430
+1037,Tamil Nadu,SALEM,2005,Kharif,Cotton(lint),14931,28132
+1038,Tamil Nadu,SALEM,2006,Whole Year,Cotton(lint),15833,39097
+1039,Tamil Nadu,SALEM,2007,Whole Year,Cotton(lint),15128,36605
+1040,Tamil Nadu,SALEM,2008,Whole Year,Cotton(lint),14036,34474
+1041,Tamil Nadu,SALEM,2009,Whole Year,Cotton(lint),13593,26834
+1042,Tamil Nadu,SALEM,2010,Kharif,Cotton(lint),14322,35674
+1043,Tamil Nadu,SALEM,2011,Kharif,Cotton(lint),13332,38756
+1044,Tamil Nadu,SALEM,2011,Rabi,Cotton(lint),3660,9618
+1045,Tamil Nadu,SALEM,2013,Kharif,Cotton(lint),11737,42720
+1046,Tamil Nadu,SALEM,2013,Rabi,Cotton(lint),1266,3257
+1047,Tamil Nadu,SIVAGANGA,1997,Whole Year,Cotton(lint),749,1380
+1048,Tamil Nadu,SIVAGANGA,1998,Kharif,Cotton(lint),2657,4735
+1049,Tamil Nadu,SIVAGANGA,1999,Kharif,Cotton(lint),853,1911
+1050,Tamil Nadu,SIVAGANGA,2000,Kharif,Cotton(lint),2736,5201
+1051,Tamil Nadu,SIVAGANGA,2001,Kharif,Cotton(lint),214,350
+1052,Tamil Nadu,SIVAGANGA,2002,Kharif,Cotton(lint),217,503
+1053,Tamil Nadu,SIVAGANGA,2003,Kharif,Cotton(lint),1169,690
+1054,Tamil Nadu,SIVAGANGA,2004,Kharif,Cotton(lint),489,576
+1055,Tamil Nadu,SIVAGANGA,2005,Kharif,Cotton(lint),284,447
+1056,Tamil Nadu,SIVAGANGA,2006,Whole Year,Cotton(lint),133,309
+1057,Tamil Nadu,SIVAGANGA,2007,Whole Year,Cotton(lint),893,1027
+1058,Tamil Nadu,SIVAGANGA,2008,Whole Year,Cotton(lint),253,520
+1059,Tamil Nadu,SIVAGANGA,2009,Whole Year,Cotton(lint),208,359
+1060,Tamil Nadu,SIVAGANGA,2010,Kharif,Cotton(lint),132,317
+1061,Tamil Nadu,SIVAGANGA,2011,Kharif,Cotton(lint),95,271
+1062,Tamil Nadu,SIVAGANGA,2011,Rabi,Cotton(lint),166,457
+1063,Tamil Nadu,SIVAGANGA,2012,Kharif,Cotton(lint),161,297
+1064,Tamil Nadu,SIVAGANGA,2013,Kharif,Cotton(lint),116,332
+1065,Tamil Nadu,SIVAGANGA,2013,Rabi,Cotton(lint),559,1342
+1066,Tamil Nadu,THANJAVUR,1997,Whole Year,Cotton(lint),885,1990
+1067,Tamil Nadu,THANJAVUR,1998,Kharif,Cotton(lint),2036,4659
+1068,Tamil Nadu,THANJAVUR,1999,Kharif,Cotton(lint),1334,2742
+1069,Tamil Nadu,THANJAVUR,2000,Kharif,Cotton(lint),1772,3775
+1070,Tamil Nadu,THANJAVUR,2001,Kharif,Cotton(lint),1244,2530
+1071,Tamil Nadu,THANJAVUR,2002,Kharif,Cotton(lint),1066,2081
+1072,Tamil Nadu,THANJAVUR,2003,Kharif,Cotton(lint),1738,3263
+1073,Tamil Nadu,THANJAVUR,2004,Kharif,Cotton(lint),2225,5235
+1074,Tamil Nadu,THANJAVUR,2005,Kharif,Cotton(lint),785,2347
+1075,Tamil Nadu,THANJAVUR,2006,Whole Year,Cotton(lint),319,1151
+1076,Tamil Nadu,THANJAVUR,2007,Whole Year,Cotton(lint),609,1684
+1077,Tamil Nadu,THANJAVUR,2008,Whole Year,Cotton(lint),549,1105
+1078,Tamil Nadu,THANJAVUR,2009,Whole Year,Cotton(lint),426,1224
+1079,Tamil Nadu,THANJAVUR,2010,Kharif,Cotton(lint),518,1407
+1080,Tamil Nadu,THANJAVUR,2011,Rabi,Cotton(lint),969,2945
+1081,Tamil Nadu,THANJAVUR,2012,Kharif,Cotton(lint),1015,3275
+1082,Tamil Nadu,THANJAVUR,2013,Rabi,Cotton(lint),1788,5912
+1083,Tamil Nadu,THE NILGIRIS,1999,Kharif,Cotton(lint),42,41
+1084,Tamil Nadu,THE NILGIRIS,2000,Kharif,Cotton(lint),5,5
+1085,Tamil Nadu,THE NILGIRIS,2007,Whole Year,Cotton(lint),5,8
+1086,Tamil Nadu,THE NILGIRIS,2008,Whole Year,Cotton(lint),6,7
+1087,Tamil Nadu,THE NILGIRIS,2009,Whole Year,Cotton(lint),5,10
+1088,Tamil Nadu,THE NILGIRIS,2010,Kharif,Cotton(lint),5,9
+1089,Tamil Nadu,THE NILGIRIS,2011,Kharif,Cotton(lint),5,14
+1090,Tamil Nadu,THE NILGIRIS,2012,Kharif,Cotton(lint),5,10
+1091,Tamil Nadu,THE NILGIRIS,2013,Kharif,Cotton(lint),6,17
+1092,Tamil Nadu,THENI,1997,Whole Year,Cotton(lint),9320,15350
+1093,Tamil Nadu,THENI,1998,Kharif,Cotton(lint),8869,21276
+1094,Tamil Nadu,THENI,1999,Kharif,Cotton(lint),5847,10195
+1095,Tamil Nadu,THENI,2000,Kharif,Cotton(lint),9531,17666
+1096,Tamil Nadu,THENI,2001,Kharif,Cotton(lint),5438,7930
+1097,Tamil Nadu,THENI,2002,Kharif,Cotton(lint),3033,4626
+1098,Tamil Nadu,THENI,2003,Kharif,Cotton(lint),3290,5761
+1099,Tamil Nadu,THENI,2004,Kharif,Cotton(lint),5137,7106
+1100,Tamil Nadu,THENI,2005,Kharif,Cotton(lint),2454,2958
+1101,Tamil Nadu,THENI,2006,Whole Year,Cotton(lint),1860,5255
+1102,Tamil Nadu,THENI,2007,Whole Year,Cotton(lint),1364,3570
+1103,Tamil Nadu,THENI,2008,Whole Year,Cotton(lint),1181,3725
+1104,Tamil Nadu,THENI,2009,Whole Year,Cotton(lint),865,4322
+1105,Tamil Nadu,THENI,2010,Kharif,Cotton(lint),1456,5907
+1106,Tamil Nadu,THENI,2011,Kharif,Cotton(lint),1023,4728
+1107,Tamil Nadu,THENI,2011,Rabi,Cotton(lint),562,1546
+1108,Tamil Nadu,THENI,2012,Kharif,Cotton(lint),1173,4789
+1109,Tamil Nadu,THENI,2013,Kharif,Cotton(lint),834,2455
+1110,Tamil Nadu,THENI,2013,Rabi,Cotton(lint),509,2329
+1111,Tamil Nadu,THIRUVALLUR,2001,Kharif,Cotton(lint),2,1
+1112,Tamil Nadu,THIRUVALLUR,2002,Kharif,Cotton(lint),4,3
+1113,Tamil Nadu,THIRUVALLUR,2003,Kharif,Cotton(lint),15,28
+1114,Tamil Nadu,THIRUVALLUR,2005,Kharif,Cotton(lint),8,9
+1115,Tamil Nadu,THIRUVARUR,1997,Whole Year,Cotton(lint),1622,3650
+1116,Tamil Nadu,THIRUVARUR,1998,Kharif,Cotton(lint),1642,3759
+1117,Tamil Nadu,THIRUVARUR,1999,Kharif,Cotton(lint),1574,3296
+1118,Tamil Nadu,THIRUVARUR,2000,Kharif,Cotton(lint),2027,4384
+1119,Tamil Nadu,THIRUVARUR,2001,Kharif,Cotton(lint),2732,5550
+1120,Tamil Nadu,THIRUVARUR,2002,Kharif,Cotton(lint),1661,3243
+1121,Tamil Nadu,THIRUVARUR,2003,Kharif,Cotton(lint),1785,5152
+1122,Tamil Nadu,THIRUVARUR,2004,Kharif,Cotton(lint),3035,4245
+1123,Tamil Nadu,THIRUVARUR,2005,Kharif,Cotton(lint),1431,1207
+1124,Tamil Nadu,THIRUVARUR,2006,Whole Year,Cotton(lint),564,814
+1125,Tamil Nadu,THIRUVARUR,2007,Whole Year,Cotton(lint),982,1581
+1126,Tamil Nadu,THIRUVARUR,2008,Whole Year,Cotton(lint),493,1054
+1127,Tamil Nadu,THIRUVARUR,2009,Whole Year,Cotton(lint),469,996
+1128,Tamil Nadu,THIRUVARUR,2010,Kharif,Cotton(lint),880,2495
+1129,Tamil Nadu,THIRUVARUR,2011,Rabi,Cotton(lint),1254,4615
+1130,Tamil Nadu,THIRUVARUR,2012,Kharif,Cotton(lint),1320,2417
+1131,Tamil Nadu,THIRUVARUR,2013,Rabi,Cotton(lint),3676,9189
+1132,Tamil Nadu,TIRUCHIRAPPALLI,1997,Whole Year,Cotton(lint),10825,22580
+1133,Tamil Nadu,TIRUCHIRAPPALLI,1998,Kharif,Cotton(lint),7328,13047
+1134,Tamil Nadu,TIRUCHIRAPPALLI,1999,Kharif,Cotton(lint),5698,9562
+1135,Tamil Nadu,TIRUCHIRAPPALLI,2000,Kharif,Cotton(lint),7083,12300
+1136,Tamil Nadu,TIRUCHIRAPPALLI,2001,Kharif,Cotton(lint),9508,10880
+1137,Tamil Nadu,TIRUCHIRAPPALLI,2002,Kharif,Cotton(lint),1558,2581
+1138,Tamil Nadu,TIRUCHIRAPPALLI,2003,Kharif,Cotton(lint),2767,3580
+1139,Tamil Nadu,TIRUCHIRAPPALLI,2004,Kharif,Cotton(lint),2715,3812
+1140,Tamil Nadu,TIRUCHIRAPPALLI,2005,Kharif,Cotton(lint),3299,4847
+1141,Tamil Nadu,TIRUCHIRAPPALLI,2006,Whole Year,Cotton(lint),5508,13742
+1142,Tamil Nadu,TIRUCHIRAPPALLI,2007,Whole Year,Cotton(lint),6677,16364
+1143,Tamil Nadu,TIRUCHIRAPPALLI,2008,Whole Year,Cotton(lint),10976,5338
+1144,Tamil Nadu,TIRUCHIRAPPALLI,2009,Whole Year,Cotton(lint),9319,32202
+1145,Tamil Nadu,TIRUCHIRAPPALLI,2010,Kharif,Cotton(lint),14479,28519
+1146,Tamil Nadu,TIRUCHIRAPPALLI,2011,Kharif,Cotton(lint),14056,36772
+1147,Tamil Nadu,TIRUCHIRAPPALLI,2011,Rabi,Cotton(lint),317,872
+1148,Tamil Nadu,TIRUCHIRAPPALLI,2012,Kharif,Cotton(lint),16928,17539
+1149,Tamil Nadu,TIRUCHIRAPPALLI,2013,Kharif,Cotton(lint),16272,35173
+1150,Tamil Nadu,TIRUCHIRAPPALLI,2013,Rabi,Cotton(lint),190,594
+1151,Tamil Nadu,TIRUNELVELI,1997,Whole Year,Cotton(lint),8923,10170
+1152,Tamil Nadu,TIRUNELVELI,1998,Kharif,Cotton(lint),12238,18423
+1153,Tamil Nadu,TIRUNELVELI,1999,Kharif,Cotton(lint),12094,25016
+1154,Tamil Nadu,TIRUNELVELI,2000,Kharif,Cotton(lint),15262,30562
+1155,Tamil Nadu,TIRUNELVELI,2001,Kharif,Cotton(lint),6716,10020
+1156,Tamil Nadu,TIRUNELVELI,2002,Kharif,Cotton(lint),3904,6739
+1157,Tamil Nadu,TIRUNELVELI,2003,Kharif,Cotton(lint),4301,7050
+1158,Tamil Nadu,TIRUNELVELI,2004,Kharif,Cotton(lint),6625,14854
+1159,Tamil Nadu,TIRUNELVELI,2005,Kharif,Cotton(lint),4938,10777
+1160,Tamil Nadu,TIRUNELVELI,2006,Whole Year,Cotton(lint),4373,10745
+1161,Tamil Nadu,TIRUNELVELI,2007,Whole Year,Cotton(lint),3250,5943
+1162,Tamil Nadu,TIRUNELVELI,2008,Whole Year,Cotton(lint),2512,6107
+1163,Tamil Nadu,TIRUNELVELI,2009,Whole Year,Cotton(lint),2574,7100
+1164,Tamil Nadu,TIRUNELVELI,2010,Kharif,Cotton(lint),2432,7151
+1165,Tamil Nadu,TIRUNELVELI,2011,Kharif,Cotton(lint),1667,5470
+1166,Tamil Nadu,TIRUNELVELI,2011,Rabi,Cotton(lint),1055,3063
+1167,Tamil Nadu,TIRUNELVELI,2012,Kharif,Cotton(lint),2510,5135
+1168,Tamil Nadu,TIRUNELVELI,2013,Kharif,Cotton(lint),1105,2187
+1169,Tamil Nadu,TIRUNELVELI,2013,Rabi,Cotton(lint),2379,1617
+1170,Tamil Nadu,TIRUPPUR,2008,Whole Year,Cotton(lint),429,
+1171,Tamil Nadu,TIRUPPUR,2009,Whole Year,Cotton(lint),335,2081
+1172,Tamil Nadu,TIRUPPUR,2010,Kharif,Cotton(lint),398,973
+1173,Tamil Nadu,TIRUPPUR,2011,Kharif,Cotton(lint),361,1031
+1174,Tamil Nadu,TIRUPPUR,2011,Rabi,Cotton(lint),292,803
+1175,Tamil Nadu,TIRUPPUR,2012,Kharif,Cotton(lint),371,684
+1176,Tamil Nadu,TIRUPPUR,2013,Kharif,Cotton(lint),137,393
+1177,Tamil Nadu,TIRUPPUR,2013,Rabi,Cotton(lint),194,466
+1178,Tamil Nadu,TIRUVANNAMALAI,1997,Whole Year,Cotton(lint),1821,3470
+1179,Tamil Nadu,TIRUVANNAMALAI,1998,Kharif,Cotton(lint),4288,8547
+1180,Tamil Nadu,TIRUVANNAMALAI,1999,Kharif,Cotton(lint),3000,6884
+1181,Tamil Nadu,TIRUVANNAMALAI,2000,Kharif,Cotton(lint),2777,6034
+1182,Tamil Nadu,TIRUVANNAMALAI,2001,Kharif,Cotton(lint),2782,2830
+1183,Tamil Nadu,TIRUVANNAMALAI,2002,Kharif,Cotton(lint),555,936
+1184,Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Cotton(lint),2610,5872
+1185,Tamil Nadu,TIRUVANNAMALAI,2004,Kharif,Cotton(lint),2576,5271
+1186,Tamil Nadu,TIRUVANNAMALAI,2005,Kharif,Cotton(lint),1712,4462
+1187,Tamil Nadu,TIRUVANNAMALAI,2006,Whole Year,Cotton(lint),1689,4784
+1188,Tamil Nadu,TIRUVANNAMALAI,2007,Whole Year,Cotton(lint),869,2451
+1189,Tamil Nadu,TIRUVANNAMALAI,2008,Whole Year,Cotton(lint),954,2425
+1190,Tamil Nadu,TIRUVANNAMALAI,2009,Whole Year,Cotton(lint),785,2320
+1191,Tamil Nadu,TIRUVANNAMALAI,2010,Kharif,Cotton(lint),1191,2544
+1192,Tamil Nadu,TIRUVANNAMALAI,2011,Kharif,Cotton(lint),370,1056
+1193,Tamil Nadu,TIRUVANNAMALAI,2011,Rabi,Cotton(lint),391,1076
+1194,Tamil Nadu,TIRUVANNAMALAI,2012,Kharif,Cotton(lint),506,961
+1195,Tamil Nadu,TIRUVANNAMALAI,2013,Kharif,Cotton(lint),138,260
+1196,Tamil Nadu,TIRUVANNAMALAI,2013,Rabi,Cotton(lint),157,357
+1197,Tamil Nadu,TUTICORIN,1997,Whole Year,Cotton(lint),17660,20790
+1198,Tamil Nadu,TUTICORIN,1998,Kharif,Cotton(lint),16429,5218
+1199,Tamil Nadu,TUTICORIN,1999,Kharif,Cotton(lint),15107,9911
+1200,Tamil Nadu,TUTICORIN,2000,Kharif,Cotton(lint),9516,7333
+1201,Tamil Nadu,TUTICORIN,2001,Kharif,Cotton(lint),9743,4400
+1202,Tamil Nadu,TUTICORIN,2002,Kharif,Cotton(lint),7435,3834
+1203,Tamil Nadu,TUTICORIN,2003,Kharif,Cotton(lint),6977,3241
+1204,Tamil Nadu,TUTICORIN,2004,Kharif,Cotton(lint),6599,7108
+1205,Tamil Nadu,TUTICORIN,2005,Kharif,Cotton(lint),6620,6753
+1206,Tamil Nadu,TUTICORIN,2006,Whole Year,Cotton(lint),4966,6980
+1207,Tamil Nadu,TUTICORIN,2007,Whole Year,Cotton(lint),4090,4413
+1208,Tamil Nadu,TUTICORIN,2008,Whole Year,Cotton(lint),3634,3923
+1209,Tamil Nadu,TUTICORIN,2009,Whole Year,Cotton(lint),3766,3770
+1210,Tamil Nadu,TUTICORIN,2010,Kharif,Cotton(lint),3230,10847
+1211,Tamil Nadu,TUTICORIN,2011,Kharif,Cotton(lint),197,562
+1212,Tamil Nadu,TUTICORIN,2011,Rabi,Cotton(lint),3413,8466
+1213,Tamil Nadu,TUTICORIN,2012,Kharif,Cotton(lint),3751,3775
+1214,Tamil Nadu,TUTICORIN,2013,Kharif,Cotton(lint),22,63
+1215,Tamil Nadu,TUTICORIN,2013,Rabi,Cotton(lint),4504,7701
+1216,Tamil Nadu,VELLORE,1997,Whole Year,Cotton(lint),10385,12640
+1217,Tamil Nadu,VELLORE,1998,Kharif,Cotton(lint),7210,7812
+1218,Tamil Nadu,VELLORE,1999,Kharif,Cotton(lint),3338,4288
+1219,Tamil Nadu,VELLORE,2000,Kharif,Cotton(lint),4965,5906
+1220,Tamil Nadu,VELLORE,2001,Kharif,Cotton(lint),6779,6380
+1221,Tamil Nadu,VELLORE,2002,Kharif,Cotton(lint),389,446
+1222,Tamil Nadu,VELLORE,2003,Kharif,Cotton(lint),1124,3174
+1223,Tamil Nadu,VELLORE,2004,Kharif,Cotton(lint),1885,5114
+1224,Tamil Nadu,VELLORE,2005,Kharif,Cotton(lint),7013,9585
+1225,Tamil Nadu,VELLORE,2006,Whole Year,Cotton(lint),5765,15143
+1226,Tamil Nadu,VELLORE,2007,Whole Year,Cotton(lint),6625,14510
+1227,Tamil Nadu,VELLORE,2008,Whole Year,Cotton(lint),6689,11651
+1228,Tamil Nadu,VELLORE,2009,Whole Year,Cotton(lint),6928,13158
+1229,Tamil Nadu,VELLORE,2010,Kharif,Cotton(lint),5713,13102
+1230,Tamil Nadu,VELLORE,2011,Kharif,Cotton(lint),6995,13714
+1231,Tamil Nadu,VELLORE,2011,Rabi,Cotton(lint),146,402
+1232,Tamil Nadu,VELLORE,2012,Kharif,Cotton(lint),7725,18118
+1233,Tamil Nadu,VELLORE,2013,Kharif,Cotton(lint),6125,16476
+1234,Tamil Nadu,VELLORE,2013,Rabi,Cotton(lint),345,828
+1235,Tamil Nadu,VILLUPURAM,1997,Whole Year,Cotton(lint),3697,7120
+1236,Tamil Nadu,VILLUPURAM,1998,Kharif,Cotton(lint),15849,42141
+1237,Tamil Nadu,VILLUPURAM,1999,Kharif,Cotton(lint),9392,19498
+1238,Tamil Nadu,VILLUPURAM,2000,Kharif,Cotton(lint),11442,23259
+1239,Tamil Nadu,VILLUPURAM,2001,Kharif,Cotton(lint),5486,11100
+1240,Tamil Nadu,VILLUPURAM,2002,Kharif,Cotton(lint),1878,3687
+1241,Tamil Nadu,VILLUPURAM,2003,Kharif,Cotton(lint),4922,11337
+1242,Tamil Nadu,VILLUPURAM,2004,Kharif,Cotton(lint),5215,9582
+1243,Tamil Nadu,VILLUPURAM,2005,Kharif,Cotton(lint),5023,7423
+1244,Tamil Nadu,VILLUPURAM,2006,Whole Year,Cotton(lint),5557,12263
+1245,Tamil Nadu,VILLUPURAM,2007,Whole Year,Cotton(lint),7014,20178
+1246,Tamil Nadu,VILLUPURAM,2008,Whole Year,Cotton(lint),8609,19032
+1247,Tamil Nadu,VILLUPURAM,2009,Whole Year,Cotton(lint),6519,11611
+1248,Tamil Nadu,VILLUPURAM,2010,Kharif,Cotton(lint),5489,13300
+1249,Tamil Nadu,VILLUPURAM,2011,Kharif,Cotton(lint),6126,12728
+1250,Tamil Nadu,VILLUPURAM,2011,Rabi,Cotton(lint),94,308
+1251,Tamil Nadu,VILLUPURAM,2012,Kharif,Cotton(lint),6944,17145
+1252,Tamil Nadu,VILLUPURAM,2013,Kharif,Cotton(lint),9322,21093
+1253,Tamil Nadu,VILLUPURAM,2013,Rabi,Cotton(lint),267,631
+1254,Tamil Nadu,VIRUDHUNAGAR,1997,Whole Year,Cotton(lint),30069,29810
+1255,Tamil Nadu,VIRUDHUNAGAR,1998,Kharif,Cotton(lint),36641,49094
+1256,Tamil Nadu,VIRUDHUNAGAR,1999,Kharif,Cotton(lint),29613,31673
+1257,Tamil Nadu,VIRUDHUNAGAR,2000,Kharif,Cotton(lint),26955,33925
+1258,Tamil Nadu,VIRUDHUNAGAR,2001,Kharif,Cotton(lint),21257,28670
+1259,Tamil Nadu,VIRUDHUNAGAR,2002,Kharif,Cotton(lint),17934,18312
+1260,Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Cotton(lint),17883,13734
+1261,Tamil Nadu,VIRUDHUNAGAR,2004,Kharif,Cotton(lint),17439,16648
+1262,Tamil Nadu,VIRUDHUNAGAR,2005,Kharif,Cotton(lint),13867,15753
+1263,Tamil Nadu,VIRUDHUNAGAR,2006,Whole Year,Cotton(lint),11535,21908
+1264,Tamil Nadu,VIRUDHUNAGAR,2007,Whole Year,Cotton(lint),8723,13722
+1265,Tamil Nadu,VIRUDHUNAGAR,2008,Whole Year,Cotton(lint),8705,12033
+1266,Tamil Nadu,VIRUDHUNAGAR,2009,Whole Year,Cotton(lint),7876,10922
+1267,Tamil Nadu,VIRUDHUNAGAR,2010,Kharif,Cotton(lint),7904,14022
+1268,Tamil Nadu,VIRUDHUNAGAR,2011,Kharif,Cotton(lint),4746,12075
+1269,Tamil Nadu,VIRUDHUNAGAR,2011,Rabi,Cotton(lint),4893,11251
+1270,Tamil Nadu,VIRUDHUNAGAR,2012,Kharif,Cotton(lint),8209,11859
+1271,Tamil Nadu,VIRUDHUNAGAR,2013,Kharif,Cotton(lint),3818,9248
+1272,Tamil Nadu,VIRUDHUNAGAR,2013,Rabi,Cotton(lint),5904,14203
